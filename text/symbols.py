@@ -9,7 +9,7 @@ from text import cmudict
 _pad        = '_'
 _punctuation = '!\'(),-.:;?'
 _special = '-'
-_characters = 'AĄBCČDEĘĖFGHIĮYJKLMNOPQRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnopqrsštuųūvwxzž'
+_letters = 'AĄBCČDEĘĖFGHIĮYJKLMNOPQRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnopqrsštuųūvwxzž'
 
 # Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
 _arpabet = ['@' + s for s in cmudict.valid_symbols]
