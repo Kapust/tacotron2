@@ -71,6 +71,9 @@ def basic_cleaners(text):
   text = collapse_whitespace(text)
   return text
 
+def basic_cleaners_with_uppercase(text):
+  text = collapse_whitespace(text)
+  return text
 
 def transliteration_cleaners(text):
   '''Pipeline for non-English text that transliterates to ASCII.'''

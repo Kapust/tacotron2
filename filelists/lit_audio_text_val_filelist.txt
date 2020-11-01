@@ -1,6 +1,6 @@
 LIT/0001.wav|kad staty^bininkai pasisten~gs
 LIT/0002.wav|registra~cijos panaiki`nimas
-LIT/0003.wav|Kai~p valsty^bė ga~li užti`krinti
+LIT/0003.wav|Kai~p valsty^bė ga~li užti`krinti?
 LIT/0004.wav|Tačiau~ du tū^kstančiai ketvirtai~s me~tais
 LIT/0005.wav|kurių~ mirti`s bu`vo patvi`rtinta
 LIT/0006.wav|tri`sdešimt vi^enas stra^ipsnis
@@ -8,7 +8,7 @@ LIT/0007.wav|Lietuvo~s Respu`blikos įsta~tymai
 LIT/0008.wav|nors ir vi`siškai nereikali`nga
 LIT/0009.wav|Gyve^ntojai pradė^jo protestu^oti
 LIT/0010.wav|kad jauni`mas netu`ri sa`vo lė^šų
-LIT/0011.wav|ką~ rei~kia kei~sti dary^ti kitai~p
+LIT/0011.wav|ką~ rei~kia kei~sti dary^ti kitai~p?
 LIT/0012.wav|yra` nepoli`tinė organiza~cija
 LIT/0013.wav|Paskui~ la^ukti finansa~vimo ir sprendi`mo
 LIT/0014.wav|ji`s tin~kamas ir galia^usiai tyla`
@@ -52,7 +52,7 @@ LIT/0051.wav|autori`nio atly^ginimo neski`rti
 LIT/0052.wav|Paki`lus vi`skas vy~ko įprastai~
 LIT/0053.wav|Ji`s palai~kė Preziden~to idė^ją
 LIT/0054.wav|Jo~s visame` pasa^ulyje labai~ ve^rtinamos
-LIT/0055.wav|Nagrinė^dami kla^usimą ka`s yra žmogu`s
+LIT/0055.wav|Nagrinė^dami kla^usimą ka`s yra žmogu`s?
 LIT/0056.wav|pristaty^ti ir neįgalių~jų dirbiniai~
 LIT/0057.wav|galimy^bes ta^ikyti juo~s Lietuvoje`
 LIT/0058.wav|mo^kytojai negalė^jo patikė^ti
@@ -98,7 +98,7 @@ LIT/0097.wav|grąži`no stu`dijoms ski`rtas pa~skolas
 LIT/0098.wav|Turė^ti nau~ją automobi`lį gerai~
 LIT/0099.wav|Ir kai visi` vi^enas ki`tą pakan~kamai priku`rsto
 LIT/0100.wav|nepajė~gęs išsprę^sti šeimy^ninių proble`mų
-LIT/0101.wav|Kokie~ dabar~ sa^ntykiai su gru`pės nariai~s
+LIT/0101.wav|Kokie~ dabar~ sa^ntykiai su gru`pės nariai~s?
 LIT/0102.wav|ir jų~ pavadu^otojų kandidatūra`s
 LIT/0103.wav|tada` dar nežino^jęs kur~ rungtyniau~s
 LIT/0104.wav|o atskirai~s a~tvejais ne`t ir didesni`
@@ -179,7 +179,7 @@ LIT/0178.wav|Ne~rimas dėl vaikų~ kiekvi^eną die~ną
 LIT/0179.wav|tačiau~ netru`kus ki`tas nuspre^ndė
 LIT/0180.wav|ei~nantis vir~šininko pa~reigas
 LIT/0181.wav|Telefo`nas skambė^jo ilgai~ ir įsakmiai~
-LIT/0182.wav|kodė~l Ji`s sukū^rė ti^ek dau~g žmonių~
+LIT/0182.wav|kodė~l Ji`s sukū^rė ti^ek dau~g žmonių~?
 LIT/0183.wav|Me`dikai aną~ va~karą ne kar~tą akcenta~vo
 LIT/0184.wav|trijų~ ba^nkų Klai~pėdos vanden~s
 LIT/0185.wav|kad Gru`zijoje prara~do lėktu`vą
@@ -193,7 +193,7 @@ LIT/0192.wav|šio~ ko`dekso ir kitų~ te^isės a~ktų
 LIT/0193.wav|Nors aplin~kui švie~tė prabanga`
 LIT/0194.wav|Aukščia^usiojo Tei~smo pi`rmininką ir teisė^jus
 LIT/0195.wav|tačiau~ jų pra~šymų nepate^nkino
-LIT/0196.wav|ka`s bu`vo iki šio~s jū^sų pažintie~s
+LIT/0196.wav|ka`s bu`vo iki šio~s jū^sų pažintie~s?
 LIT/0197.wav|neatli`kęs paskirto~s bausmė~s
 LIT/0198.wav|jū^ros pau~kščių ir gyvū~nų medžio~klei
 LIT/0199.wav|pa`dedant garsi^ems mu`zikos gra^ndams
@@ -202,7 +202,7 @@ LIT/0201.wav|Rakta~žodžiai gri`po vi`rusas
 LIT/0202.wav|reglamentu^ojančius sriti`s
 LIT/0203.wav|dvy^lika bai~giamosios nu^ostatos
 LIT/0204.wav|Apie tai~ bū^tų informu^oti ir varto^tojai
-LIT/0205.wav|ar ne`gresia panašu`s pavo~jus ir ukmergi`škiams
+LIT/0205.wav|ar ne`gresia panašu`s pavo~jus ir ukmergi`škiams?
 LIT/0206.wav|Aktyva~vus ta^m ti`krą smegenų~ da~lį
 LIT/0207.wav|kad dabar~ ji`s rašą~s biogra~fiją
 LIT/0208.wav|čia` jau pagaliau~ susidomė^jo ir Pra~nas

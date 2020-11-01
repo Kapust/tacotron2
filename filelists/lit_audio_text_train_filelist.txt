@@ -13,7 +13,7 @@ LIT/0262.wav|jau ir tai~p suma~žintos pen~sijos
 LIT/0263.wav|INTRE`TO besimo^kanti turi`zmo terito`rija
 LIT/0264.wav|nes šian~dien kal~bantis Die~vas sa~ko
 LIT/0265.wav|seku`ndės tu`ri bū^ti vi`sos vieno^dos
-LIT/0266.wav|ar šiai~s laikai~s vi^eno ža^nro paroda`
+LIT/0266.wav|ar šiai~s laikai~s vi^eno ža^nro paroda`?
 LIT/0267.wav|Žmogu`s nesu`geba išgir~sti atsa~kymo
 LIT/0268.wav|Po aki`mirkos na~mo kam~pas susmu`ko
 LIT/0269.wav|Rugsė^jo keturio^liktos dieno~s rašte`
@@ -40,8 +40,8 @@ LIT/0289.wav|Ir švento~sios dva~sios Me^ile
 LIT/0290.wav|li`kusios kituose` regio`nuose
 LIT/0291.wav|po to~ pe^reina į jaukau~s interje`ro po^ilsio pa~talpas
 LIT/0292.wav|ke~turiasdešimt keturi` du` pu`nkte ra~šoma
-LIT/0293.wav|ar užte`ktų tiesio^g suren~gti laurea~tų konce`rtą
-LIT/0294.wav|o kurie~ paskuti`niai šiame` tre~jete
+LIT/0293.wav|ar užte`ktų tiesio^g suren~gti laurea~tų konce`rtą?
+LIT/0294.wav|o kurie~ paskuti`niai šiame` tre~jete?
 LIT/0295.wav|Algi`mantui Aleksandra~vičiui
 LIT/0296.wav|To^ks obje`ktas kainu^otų apie šešio^lika mln Lt
 LIT/0297.wav|nei iš to~ taip pablogė^ja savi`jauta
@@ -58,7 +58,7 @@ LIT/0307.wav|pažymė^tų etike`tėmis Ita~lija
 LIT/0308.wav|su klien~tais užsi`mezgė ryšy~s
 LIT/0309.wav|Jude`o gru^odžio dvi`dešimt devin~tąją
 LIT/0310.wav|Tai~gi konstru^ojame vi`sumą
-LIT/0311.wav|Ar tai populiaru` Tra~kų rajone`
+LIT/0311.wav|Ar tai populiaru` Tra~kų rajone`?
 LIT/0312.wav|organi`zmas jo~s pasisa~vina de~šimt pro`c
 LIT/0313.wav|kad vė~l norė^čiau grį~žti į tą~ vie~tą
 LIT/0314.wav|Optimi`stinė mini`strės kalba`
@@ -87,7 +87,7 @@ LIT/0336.wav|o jau~ su rankinu`kais tai vi`sos
 LIT/0337.wav|skana^udami saldumy^nus sumuštiniu`s
 LIT/0338.wav|Bū^tina išmo^kti mąsty^ti krypti`ngai
 LIT/0339.wav|kuria^m paklū~sta vi`sa kas že~mėje gy^va
-LIT/0340.wav|ko^kią pa~vardę pasirin~ks išrinkto^ji
+LIT/0340.wav|ko^kią pa~vardę pasirin~ks išrinkto^ji?
 LIT/0341.wav|atra~do argumen~tą vyresny~sis
 LIT/0342.wav|Ji`s ga~li tik tei~kti te^isinę i`švadą
 LIT/0343.wav|Ame`rikos Vokieti`jos Le^nkijos
@@ -161,7 +161,7 @@ LIT/0410.wav|Už pui~kią kelio~nę geru`s į^spūdžius
 LIT/0411.wav|kurį~ pasira~šė kaimy^nai iš Leo~niškės km
 LIT/0412.wav|tai bent mažia^usiai kaip nedemokra~tišką girdi`
 LIT/0413.wav|aš sa^u paprieštaravau~ bet tai nie~kis
-LIT/0414.wav|ki^ek veiksmų~ mygtu`kų paspaudi`mų
+LIT/0414.wav|ki^ek veiksmų~ mygtu`kų paspaudi`mų?
 LIT/0415.wav|jog koru`pcija ir ky~šiai yra` normalu`
 LIT/0416.wav|Nuolati`nis pe^rsivalgymas su`kelia me~džiagų apy^kaitos sutrikimu`s
 LIT/0417.wav|kad iš tikrų~jų vai~kas bu`vo nukentė^jęs
@@ -207,7 +207,7 @@ LIT/0456.wav|užterštu`mas pastebimai~ padidė^ja
 LIT/0457.wav|semina~rijos vicedeka~nas tei~gia
 LIT/0458.wav|kad pre~kių mainai~ bū^tų priimtini`
 LIT/0459.wav|Tokie~ jai pasiro^dė tailandie~čiai
-LIT/0460.wav|Ga^l ta`s vyru`kas iš tiesų~ labai~ malonu`s
+LIT/0460.wav|Ga^l ta`s vyru`kas iš tiesų~ labai~ malonu`s?
 LIT/0461.wav|Ši`s ba^ltymas atlie~ka ir membra~nų susilieji`mo fu`nkciją
 LIT/0462.wav|o ne di`rbantiems žmonė^ms pagaliau~
 LIT/0463.wav|pri`tariant gitara` ir trombonu`
@@ -221,7 +221,7 @@ LIT/0470.wav|o nusižudy^ti ne tai~p jau len~gva
 LIT/0471.wav|Su va^ndeniu išpy^lėte ir kū~dikį
 LIT/0472.wav|Vi^enu metu` bu`vo ti^ek įsili`nksminę
 LIT/0473.wav|Dėl žmonių~ veiklo~s susida~ro atliekų~
-LIT/0474.wav|kodė~l prasimaniau~ tuo~s narko`tikus
+LIT/0474.wav|kodė~l prasimaniau~ tuo~s narko`tikus?
 LIT/0475.wav|galvi`jų ragų~ ir ka^ulų me~džio ir~
 LIT/0476.wav|bet ji` labai~ efektyviai~ vei~kia
 LIT/0477.wav|kad jie~ atsira`stų tinkamoje` vie~toje
@@ -261,7 +261,7 @@ LIT/0510.wav|Viešo~sios poli`tikos darbo^tvarkės ana~lizės raida`
 LIT/0511.wav|Šrei~deris ir šioje` opera~cijoje nepražu`vo
 LIT/0512.wav|šo~kių instrumen~tinių kolekty~vų
 LIT/0513.wav|seno^vinė rytie~tiška statulė~lė
-LIT/0514.wav|Nesikoncentru^okite į sa`vo problema`s
+LIT/0514.wav|Nesikoncentru^okite į sa`vo problema`s2
 LIT/0515.wav|G W Bu`shas taip pa`t sa~kė
 LIT/0516.wav|švęsdami` vestuve`s restora~nuose
 LIT/0517.wav|Skulptū~ros atspin~di rašy^tojo
@@ -294,7 +294,7 @@ LIT/0543.wav|Kei~stas to~jo vyru`ko pasiva^ikščiojimo bū~das
 LIT/0544.wav|kad gyvuly~s iššo^ko į ke~lią pri^ešais miško^vežį
 LIT/0545.wav|Da~žnas vitaminu`s ge~riame nuo~lat
 LIT/0546.wav|galuti`nis produ`ktas vis ti^ek bra^ngsta
-LIT/0547.wav|o dai~ną apie Stalgė^nų nami`nę girdė^jot
+LIT/0547.wav|o dai~ną apie Stalgė^nų nami`nę girdė^jot?
 LIT/0548.wav|Sei~mas ga~li nutar~ti se`siją pratę~sti
 LIT/0549.wav|Lygia~dienio vakarai~ bu`vo lai~komi šven~tvakariais
 LIT/0550.wav|ja^i ski`rtos atsargi`nės da~lys
@@ -319,7 +319,7 @@ LIT/0568.wav|Kariu^omenės junginiai~ daliniai~
 LIT/0569.wav|lai~vas plauki`mo ju^ostos plo~tis
 LIT/0570.wav|uosta~miestyje tai~ da~roma du kartu`s dažniau~
 LIT/0571.wav|Rū~pesčių dėl pašarų~ ma~nėme
-LIT/0572.wav|ki^ek tokių~ vam~zdžių yra` registre`
+LIT/0572.wav|ki^ek tokių~ vam~zdžių yra` registre`?
 LIT/0573.wav|la~tvių ir e`stų ekipa`s gy^rė Balčiū^nas
 LIT/0574.wav|K Lence~vičienė pra~šė para~ginti garliaviečiu`s ir per mū^sų lai~kraštį
 LIT/0575.wav|le^nkam prie to~s guda^m per vi`durį
@@ -346,7 +346,7 @@ LIT/0595.wav|Ūmai~ jis prisi`minė seno~lio li`gą
 LIT/0596.wav|inova~cijų partnery~stei ska~tinti
 LIT/0597.wav|Per sa`vo bu`to la^ngą išvy^dęs lie~psną
 LIT/0598.wav|ka`s pastaru^oju metu` yra` aktualu`
-LIT/0599.wav|kas krei~piasi dėl skaudamų~ dantų~
+LIT/0599.wav|kas krei~piasi dėl skaudamų~ dantų~?
 LIT/0600.wav|kad į^staigų vado~vų konku`rsai nėra` skai~drūs
 LIT/0601.wav|Žmogau~s oru`mo u`gdymas filoso`finė
 LIT/0602.wav|Kar~tais žmo^nės ken~čia to~l
@@ -367,11 +367,11 @@ LIT/0616.wav|anot Mei~sono priesaika~vimų
 LIT/0617.wav|Mi`škas jau bu`vo visa^i kito^ks
 LIT/0618.wav|diagno`stinių tyri`mų rodi`kliai
 LIT/0619.wav|sa^ntuokas su kilmi`ngomis šeimomi`s vakaruose`
-LIT/0620.wav|Galbū^t reikė^tų numaty^ti įsta~tyme
+LIT/0620.wav|Galbū^t reikė^tų numaty^ti įsta~tyme?
 LIT/0621.wav|lia^udies me~nininkai ir amatinin~kai
 LIT/0622.wav|Siū^ti ją~ mo^ko klu`bo vado~vė Svetlana` Žadeiki^enė
 LIT/0623.wav|Jis ir~gi bu`vo vai~kas negražu`s
-LIT/0624.wav|kur įvy~ko pirma`sis po^kalbis su Randomu`
+LIT/0624.wav|kur įvy~ko pirma`sis po^kalbis su Randomu`?
 LIT/0625.wav|kad bu`s suremontu^otos Da~nės kranti`nės
 LIT/0626.wav|aplinko^saugininkai džiau~giasi
 LIT/0627.wav|bendra^uti dainu^oti sku`ba į Oya~ką
@@ -398,7 +398,7 @@ LIT/0647.wav|žuvų~ bei kreve`čių augi`nimo tel~kinius
 LIT/0648.wav|radioaktyvau~s po^veikio a~tvejais
 LIT/0649.wav|patikė^jusių jo~s kūrė^jų deklaru^otomis verty^bėmis ir tikslai~s
 LIT/0650.wav|kuriuo~s jū~s pa~tys su`kuriate
-LIT/0651.wav|kai~p el~gtis tokių~ konfli`ktų metu`
+LIT/0651.wav|kai~p el~gtis tokių~ konfli`ktų metu`?
 LIT/0652.wav|Ir jaučiau~si gana` smagiai~
 LIT/0653.wav|kuri`s yra` ir vyria^usiasis kari`nių pajėgų~ va~das
 LIT/0654.wav|ne`t je^igu ji`s bū^tų bu`vęs be du`rų
@@ -417,7 +417,7 @@ LIT/0666.wav|tarp jų~ yra` esmi`nis ski`rtumas
 LIT/0667.wav|ligšio~l nega~li įgy^ti jų~ nuosavy^bėn
 LIT/0668.wav|lė^mė po~no Ri`mo sugrįži`mą į Li^etuvą prieš treju`s metu`s
 LIT/0669.wav|giedo^jo kartu` su sua^ugusiaisiais
-LIT/0670.wav|ar mergina` nesuvaidi`no orga~zmo
+LIT/0670.wav|ar mergina` nesuvaidi`no orga~zmo?
 LIT/0671.wav|Spaudžiama` se`rija ban~domųjų atspaudų~
 LIT/0672.wav|taisykli`ngai išdė^stytas moty~vas
 LIT/0673.wav|netu`ri nekilno^jamojo ar ki`to tur~to
@@ -426,7 +426,7 @@ LIT/0675.wav|vargu` ar jie~ iš vi`so egzista~vo
 LIT/0676.wav|o tape`tą tik sudrėki`nant va^ndeniu
 LIT/0677.wav|Ir nors pasa~kė kad per konce`rtą bu`s
 LIT/0678.wav|iš vidau~s si^ekti pe^rmainų pa^rtijose
-LIT/0679.wav|Ar~gi ne~same mirtinai~ įsimylė^ję jauny~stę
+LIT/0679.wav|Ar~gi ne~same mirtinai~ įsimylė^ję jauny~stę?
 LIT/0680.wav|Komi`sija pri^ekaištų neturė^jo
 LIT/0681.wav|Išry~škinti responden~tų žinių~
 LIT/0682.wav|ma^n pri`mena sovie~tinius laiku`s
@@ -520,7 +520,7 @@ LIT/0769.wav|svarsty^ti pačių~ suku`rtai proble`mai
 LIT/0770.wav|galu`s padu^oda sto^vintiems viršuje`
 LIT/0771.wav|nes vai~kas tu`ri te^isę į neliečiamy^bę
 LIT/0772.wav|atmosfe`ros slė~gis ir krituliai~
-LIT/0773.wav|Ga^l sudo~mins nugalė^tojų darbai~
+LIT/0773.wav|Ga^l sudo~mins nugalė^tojų darbai~?
 LIT/0774.wav|Je^i tai priklausy^tų nuo tarna^utojų
 LIT/0775.wav|pradi`niai simpto`mai ir ligo~s eiga`
 LIT/0776.wav|išli`ks tie pa~tys ga^l jų~ ne`t pagausė~s
@@ -657,14 +657,14 @@ LIT/0906.wav|Katali`kų Bažny^čią Venesue`loje ir po^piežių
 LIT/0907.wav|sertifika~vimo metodolo`giją
 LIT/0908.wav|paval~džios vo^kiečių civi`linei val~džiai
 LIT/0909.wav|arba pi`ktindamiesi dėl neveiklu`mo
-LIT/0910.wav|ki^ek emigra^ntų įsigi`jo bū^stą
+LIT/0910.wav|ki^ek emigra^ntų įsigi`jo bū^stą?
 LIT/0911.wav|Jei ša~lys nesusi`tarė dėl dery^bų pradžio~s
 LIT/0912.wav|neigiama` aplin~kinių rea~kcija
 LIT/0913.wav|naujo~s mo^kytojų da^rbo apmokė^jimo siste`mos įvedi`mo
 LIT/0914.wav|apie apsime~tėlius Kalė~dų Seneliu`s
 LIT/0915.wav|Į Vi`lnių išvy~ko tėvu`kas Albi`nas
 LIT/0916.wav|o tai~ kaina~vo ir ne`rvų ir lai~ko
-LIT/0917.wav|kai~p dė^tis no^rinčiam jį~ nury^ti
+LIT/0917.wav|kai~p dė^tis no^rinčiam jį~ nury^ti?
 LIT/0918.wav|kad apie vai~ką nie~kam nepa~sakosiu
 LIT/0919.wav|o štai~ eili`niam amerikie~čiui atro^do
 LIT/0920.wav|čiu`po per li^emenį ir užsi`tempė ant ži`rgo
@@ -678,7 +678,7 @@ LIT/0927.wav|Ko`sovo varia^ntas į~kvepia Pa~dnestrę
 LIT/0928.wav|liberali` Pilie~tinė platfo`rma
 LIT/0929.wav|po tė^vo sparnai~s sukau~piamas o^ras ta^m
 LIT/0930.wav|nete`ks eilėse` pasi^enyje gai~šti ir krovinių~ vežė^jams
-LIT/0931.wav|Kur~ labia^usiai norė^tum pagro^ti vargo~nais
+LIT/0931.wav|Kur~ labia^usiai norė^tum pagro^ti vargo~nais?
 LIT/0932.wav|Mo^kymo cen~tro buvei~nės a~dresas
 LIT/0933.wav|Ši knyga` neužkliu`vo nei krikščio^nims
 LIT/0934.wav|bu`s tik da^r viena` preten~zija
@@ -702,7 +702,7 @@ LIT/0951.wav|vilio^ja visai~s įma~nomais bū~dais
 LIT/0952.wav|sta`bteldamas gražia^usiose vie~tose
 LIT/0953.wav|vi`s nepaleisdama` iš ran~kų gita~ros
 LIT/0954.wav|sa~kė ji`s piligri`mams Vatikane`
-LIT/0955.wav|o ka`s čia` per gė^rimas Mo^ri
+LIT/0955.wav|o ka`s čia` per gė^rimas Mo^ri?
 LIT/0956.wav|Maskva` katego`riškai a`tmeta
 LIT/0957.wav|kuri`s ar kurie~ užsu`ko švytuo~klės mechani`zmą
 LIT/0958.wav|varty^dama aki`s taip dary^davo neviltie~s a`pimtos jos hero`jės
@@ -734,7 +734,7 @@ LIT/0983.wav|Bu`vo užsa~kę be sti`klo lange~lių
 LIT/0984.wav|Kvartale` mielai~ lan~kosi pareigū~nai
 LIT/0985.wav|bet gė~lės Ire`nai rūpė^jo vi`są gyve~nimą
 LIT/0986.wav|Vi`sagino klu`bui pirmo~joje ly^goje bus le^ista žai~sti tik tuo~ a~tveju
-LIT/0987.wav|Kai~p ga~li bū^ti pakiti`mas du` aštuoni` try~s
+LIT/0987.wav|Kai~p ga~li bū^ti pakiti`mas du` aštuoni` try~s?
 LIT/0988.wav|No^ras ieško^ti teisy^bės din~go
 LIT/0989.wav|poli`cininkai būriai~s ga^udo degti`ndarius
 LIT/0990.wav|Žie~mą nuogi` išmesti` per la^ngą
@@ -775,7 +775,7 @@ LIT/1024.wav|vidu`rnaktį dan~gų nu`švietė fejerve`rkai
 LIT/1025.wav|harmo`niją dva~sią ir pe^rgalę
 LIT/1026.wav|Tai lietu`vių kalbo~s pu^oselėtojus mažai~ gu^odžia
 LIT/1027.wav|ga~li sutri`kti ka^rvių reprodu`kcija
-LIT/1028.wav|Kai~p ji apibrėžiama` priklau~so nuo bū~do
+LIT/1028.wav|Kai~p ji apibrėžiama` priklau~so nuo bū~do?
 LIT/1029.wav|suteikiama` vienerių~ me~tų gara^ntija
 LIT/1030.wav|tra^ukdavo iš kiše~nių akmenuku`s
 LIT/1031.wav|o ga^l ir viso~s valsty^bės kra~chą
@@ -832,7 +832,7 @@ LIT/1081.wav|Me~tų ne E~ E`S pilie~čio ir Me~tų pasieki`mo ti`tulai
 LIT/1082.wav|Ta^m yra` įvairia^usių lempu`čių
 LIT/1083.wav|Bakte`rinių ligų~ sukėlė^jai pneumoko`kai
 LIT/1084.wav|tai yra` be sko~lintinių pri^esagų
-LIT/1085.wav|ka^m ji^ems toki^ems jauni^ems
+LIT/1085.wav|ka^m ji^ems toki^ems jauni^ems?
 LIT/1086.wav|Dei~mantą įdė^ti į ju^odmedžio dėžu`tę
 LIT/1087.wav|jie nie~ko negria^una ir nie~ko nesta~to
 LIT/1088.wav|i`lgą lai~ką besinešio^jančių a~kmenis širdyje` bu`vusių sutuokti`nių
@@ -913,7 +913,7 @@ LIT/1162.wav|jog vai~siuose nėra` pestici`dų ir sunkių~jų meta~lų
 LIT/1163.wav|bet šiuose` žo~džiuose sly~pi tikra` tiesa`
 LIT/1164.wav|Ji` paslėpta` nuo išdidžių~jų
 LIT/1165.wav|Pave^ikslo dy~dis ar jo~ atliki`mo te`chnika netu`ri reikšmė~s
-LIT/1166.wav|Ko^ks vaidmuo~ čia ten~ka Jū^sų bendro^vei
+LIT/1166.wav|Ko^ks vaidmuo~ čia ten~ka Jū^sų bendro^vei?
 LIT/1167.wav|ta^ikomos to~s sutartie~s nu^ostatos
 LIT/1168.wav|aš esu` visų~ blogy^bių pradžia` ir dėl moky~klos
 LIT/1169.wav|siekdami` savyje` atra`sti loby^ną vardan~ sa`vo ir mu`s su`pančių žmonių~ gero^vės
@@ -976,7 +976,7 @@ LIT/1225.wav|Ro`mas be gar~so paki`lo aukšty~n
 LIT/1226.wav|į~steigtos šia^m įsta~tymui įsigalio^jus
 LIT/1227.wav|Merge~lė išsė~lino pa~skui jį~
 LIT/1228.wav|pati`rdamas vi^eną smū~gį po ki`to
-LIT/1229.wav|kai~p ka`s ateityje` ga~li pakry~pti
+LIT/1229.wav|kai~p ka`s ateityje` ga~li pakry~pti?
 LIT/1230.wav|jokių~ suvar~žymų nepa^isančiose galvose`
 LIT/1231.wav|kokie~ talenti`ngi yra` šie žmo^nės
 LIT/1232.wav|tad pinigai~ bu`s tik pirma~dienį
@@ -1007,7 +1007,7 @@ LIT/1256.wav|V Do^markas A~ Budry~s J Šlepe~tis
 LIT/1257.wav|tai ir~gi padė^jo užme`gzti ryšiu`s
 LIT/1258.wav|ra~šęs apie J Baltruša^itį La^imonas Ta~pinas
 LIT/1259.wav|Ti`kisi svarau~s legionie~rių in~dėlio
-LIT/1260.wav|originalu`s jo~ diplo`mas ar ne`
+LIT/1260.wav|originalu`s jo~ diplo`mas ar ne`?
 LIT/1261.wav|asmen~s įregistra~vimo į regi`strą
 LIT/1262.wav|apie kole`gą pa~sakojo F Latė^nas
 LIT/1263.wav|Darbšti^ems vy^rams sun~kios li`gos
@@ -1019,8 +1019,8 @@ LIT/1268.wav|pa~jėgos aukų~ šioje` šalyje` nepaty^rė
 LIT/1269.wav|kad pagimdy^ti pa~čiai nepavy~ks
 LIT/1270.wav|nors bu`vome suta~rę neriziku^oti
 LIT/1271.wav|o Zandovi^enė su to^kiu pasiū^lymu suti`ko
-LIT/1272.wav|išsima^udykite dilgėlių~ nu^ovire
-LIT/1273.wav|ar pa`rengtos galimy^bių stu`dijos gu`la į sta^lčius
+LIT/1272.wav|išsima^udykite dilgėlių~ nu^ovire2
+LIT/1273.wav|ar pa`rengtos galimy^bių stu`dijos gu`la į sta^lčius?
 LIT/1274.wav|yra` kitų~ žmonių~ smalsu`mas
 LIT/1275.wav|kad rei~kia pailsė^ti viena^m nuo ki`to
 LIT/1276.wav|Kaune` pata^ikėm stačiai~ į gesta~po kie~mą
@@ -1037,7 +1037,7 @@ LIT/1286.wav|Juk iš esmė~s ti^ek Tu`rniškių
 LIT/1287.wav|sa`vo namu`s landy~nėmis paver~tusių asmenų~
 LIT/1288.wav|Kal~bant apie visu^omenės nu^omonę
 LIT/1289.wav|kad seni^eji dievai~ iš čia` išny~ko be pė^dsako
-LIT/1290.wav|Ka`s gi įsikur~s trečia~jame aukšte`
+LIT/1290.wav|Ka`s gi įsikur~s trečia~jame aukšte`?
 LIT/1291.wav|Ir nesvarbu` kur~ pinigėliu`s ki`ši
 LIT/1292.wav|Ži`nomi dvidešim~tojo a~ pr tuo~ labiau~ devynio^liktojo a~ pa`b
 LIT/1293.wav|kad ji^ems ji` tai~p ir neta~po sava`
@@ -1054,16 +1054,16 @@ LIT/1303.wav|Gali` bū^ti malo~niai nuste~binta šių~ atradi`mų
 LIT/1304.wav|Pietu`s iš vi^eno pa~tiekalo
 LIT/1305.wav|tačiau planu`s sugrio^vė sovie~tų okupa~cija
 LIT/1306.wav|Ko~l yra` iniciatyva` iš ano~s pu`sės
-LIT/1307.wav|Ir ply^šta to~s ko^jinės vi`sko bū~na
+LIT/1307.wav|Ir ply^šta to~s ko^jinės vi`sko bū~na2
 LIT/1308.wav|eilė~ ją~ susigra~žinti tebėra` ilga`
 LIT/1309.wav|kai rei~kia garantu^oti vie~šąją tvar~ką
 LIT/1310.wav|sa~kė Rakti`nės vado~vas R Vaita~sius
 LIT/1311.wav|Taip pa`t ir ren~kant bū^simą koma^ndą
-LIT/1312.wav|pagaliau~ atsidū^rę miegama~jame
+LIT/1312.wav|pagaliau~ atsidū^rę miegama~jame2
 LIT/1313.wav|Kai sua^ugsiu mi`rkteli penkiolikme~tė
 LIT/1314.wav|Pi`rmas bru^ožas sąmoni`ngas racionalu`mas
 LIT/1315.wav|aprū^pinta melži`mo ir ša^ldymo į^ranga
-LIT/1316.wav|Efe`ktą paju`si aki`mirksniu
+LIT/1316.wav|Efe`ktą paju`si aki`mirksniu2
 LIT/1317.wav|kilno^jo ją~ ant ran~kų slau~gė kan~triai
 LIT/1318.wav|sū^nų Vi`ktorą ir du`krą Liudmi`lą
 LIT/1319.wav|Konstitu`cinio Tei~smo sprendimu`
@@ -1117,16 +1117,16 @@ LIT/1366.wav|Vy^rai tylė^dami suki`lo ir vė~l susė^do aplin~k la^užą
 LIT/1367.wav|Ma^n bu`s tavę~s labai~ gai~la
 LIT/1368.wav|Nebijo^k Mar~ce a`š ne`sergu A^IDS
 LIT/1369.wav|bet Mravi`nskis Čaiko`vskio simfo`nijos
-LIT/1370.wav|o galbū^t atspin~di tik le~dkalnio viršū^nę
+LIT/1370.wav|o galbū^t atspin~di tik le~dkalnio viršū^nę?
 LIT/1371.wav|norma~lų akie~s funkciona~vimą bei akie~s mity^bą
 LIT/1372.wav|Si^eksime įtra^ukti į konku`rsą žiūrovu`s
 LIT/1373.wav|Fervergo`nas vė~l uždė^jo ran~ką
 LIT/1374.wav|ban~dantys nuo kitų~ slė~pti sil~pną ma~tymą
-LIT/1375.wav|Nerašy^kite to~ ką ži`note iš Bi`blijos
+LIT/1375.wav|Nerašy^kite to~ ką ži`note iš Bi`blijos2
 LIT/1376.wav|kad pa`ts nėra` bau~stas už važia~vimą išgė^rus
 LIT/1377.wav|o du tū^kstančiai  antrų~jų m vasa~rio an~trąją d li`tas bu`vo pe^rsietas prie eu~ro
 LIT/1378.wav|Ir atro^dė jai kad že~mė žy~di
-LIT/1379.wav|Tai už ką~ pa`ts čionai~ patekai~
+LIT/1379.wav|Tai už ką~ pa`ts čionai~ patekai~?
 LIT/1380.wav|ki`lus gin~čui su Ukraina` dėl jų~ ka^inų
 LIT/1381.wav|kad nepa`žeidė šio~s šalie~s o^ro erdvė~s
 LIT/1382.wav|rei~kia kūre^nti drebulė~s medi^eną
@@ -1204,18 +1204,18 @@ LIT/1453.wav|pi`rmąsyk išvy^dusi mū^sų mieste~lį
 LIT/1454.wav|U`ždaro kam~po glaukoma` rete`snė
 LIT/1455.wav|Žai~biškai apsisu`kęs jis sušu`ko
 LIT/1456.wav|o prasidė^jusį tokia^m pat lai~kui sustabdy^ti
-LIT/1457.wav|ką~ ji re^iškia žmonė^ms ir ekono`mikai
+LIT/1457.wav|ką~ ji re^iškia žmonė^ms ir ekono`mikai?
 LIT/1458.wav|N Sarkozy~ nežymiai~ šlubu^oja
 LIT/1459.wav|greičia^usiai to^kios bu`s ir da^r ke~lios die~nos
 LIT/1460.wav|Li`kusieji akimi`s tebe`gręžė lai~krodį
 LIT/1461.wav|Die~vo Mo^tinos ku`ltas nuolato~s finansu^ojamos te`mos
 LIT/1462.wav|Pama~čiusi A^ivaro lange` įsižie~biančią švie~są
 LIT/1463.wav|bu`s pa`teiktas miestie~čių tei~smui
-LIT/1464.wav|ar rimtai~ galvo^ju pe^rsikelti į Li^etuvą
+LIT/1464.wav|ar rimtai~ galvo^ju pe^rsikelti į Li^etuvą?
 LIT/1465.wav|Bejau~smio ro`boto vai~dmenį
 LIT/1466.wav|je^igu jo~ suma` nevir~šija penkių~ šimtų~ li`tų
 LIT/1467.wav|Pe^rteklinis azo`to bala^nsas
-LIT/1468.wav|Pakabi`nkite švelnių~ a~tspalvių užu^olaidas
+LIT/1468.wav|Pakabi`nkite švelnių~ a~tspalvių užu^olaidas2
 LIT/1469.wav|Kara~liaus Mi`ndaugo prospektu`
 LIT/1470.wav|Kai pamačiau~ vo~s infa^rkto negavau~
 LIT/1471.wav|jo~s ga~li vy^kdyti seniū~no va~lią ir jį~ priden~gti
@@ -1246,7 +1246,7 @@ LIT/1495.wav|o atsira~dusius nedel~siant išnaiki`nti
 LIT/1496.wav|valsty^binio savano~riškojo socia~linio draudi`mo sutarčių~ rū^šys
 LIT/1497.wav|suša~lusius anglie~s ga~balus į ki`birą
 LIT/1498.wav|ja^udinantys ar ra~mūs gar~sūs ar ty~lūs
-LIT/1499.wav|skubiai~ priglau~skite prie žaizdo~s
+LIT/1499.wav|skubiai~ priglau~skite prie žaizdo~s2
 LIT/1500.wav|bu`vęs vei~ksmo fi`lmų a~ktorius
 LIT/1501.wav|o naujo^ji įvy^kdė nutari`mą
 LIT/1502.wav|laumy^tis nu`žvelgė jį~ nuo ko^jų iki galvo~s
@@ -1261,8 +1261,8 @@ LIT/1510.wav|kai iš me~tų į metu`s bu`vo sėjami` va^rpiniai javai~
 LIT/1511.wav|ir a`š jau žinau~ kad sveikstu`
 LIT/1512.wav|nebū^čiau ry^žęsis ūkininka^uti
 LIT/1513.wav|o Jungti`nėse Valsti`jose A^lfred A~ Kno`pf
-LIT/1514.wav|Ga^l nepa`jėgė pe^rnešti per ti`ltą
-LIT/1515.wav|kurių~ plo^tis beve^ik me`tras
+LIT/1514.wav|Ga^l nepa`jėgė pe^rnešti per ti`ltą?
+LIT/1515.wav|kurių~ plo^tis beve^ik me`tras2
 LIT/1516.wav|Juk a`š tave` užsime^rkęs pasma^ugčiau
 LIT/1517.wav|gyve~nantys senuose` blo`kiniuose daugiabu`čiuose
 LIT/1518.wav|bet ir socia~linių neigiamų~ pasekmių~
@@ -1285,7 +1285,7 @@ LIT/1534.wav|tačiau ja^m jau šian~dien trū^ksta pi^eno kvoto~s
 LIT/1535.wav|kad ji`s kažkur~ netoli^ese sukio^jasi
 LIT/1536.wav|negirdė^ti tar~si užbloku^oti
 LIT/1537.wav|kad mū^sų tu`rimos konce`rtų
-LIT/1538.wav|o kur~ da^r šikšno^sparnio nagai~
+LIT/1538.wav|o kur~ da^r šikšno^sparnio nagai~2
 LIT/1539.wav|kuri`s nė už ką~ neno^ri grožė^tis jo~ kūriniai~s
 LIT/1540.wav|savivaldy^bių tary^bų sta~tusus
 LIT/1541.wav|va~lomos ir specialiai~ ruo~šiamos
@@ -1300,7 +1300,7 @@ LIT/1549.wav|kad kada no^rs sugebė^site pamir~šti
 LIT/1550.wav|Jie labai~ dau~g lai~ko prale^idžia kartu`
 LIT/1551.wav|o meto`diškai bei dozu^oti krūviu`s
 LIT/1552.wav|šešio^liktame a^mžiuje vė~l pasiro^do įvairių~ ve`rsijų įmantria` ita~lų kalba`
-LIT/1553.wav|Ga^l jie prancū~zų kal~bą varto^jo
+LIT/1553.wav|Ga^l jie prancū~zų kal~bą varto^jo?
 LIT/1554.wav|jie turini`ngai čia` le^idžia va~sarą
 LIT/1555.wav|pa~rą gyve~nusi išde~gusiame bute` be langų~
 LIT/1556.wav|Pritaisiau~ ja^m nutrū^kusią pla~štaką
@@ -1327,7 +1327,7 @@ LIT/1576.wav|Pate~kę į pasienie~čių lai~vą Christina`
 LIT/1577.wav|kur skę~stų žmonių~ miniose`
 LIT/1578.wav|po ava~rijos ne`t dvi` para`s ir vanden~s
 LIT/1579.wav|Jo ža^rnas šuni`ms atidu^osiąs
-LIT/1580.wav|Ga^l vertė^tų ir mu`ms se`kti Jo~ pa~vyzdžiu
+LIT/1580.wav|Ga^l vertė^tų ir mu`ms se`kti Jo~ pa~vyzdžiu?
 LIT/1581.wav|so~do name~liuose ka~bo prie ži`dinio
 LIT/1582.wav|kur skry~džiai į Ve~kšį bu`s tęsiami`
 LIT/1583.wav|kai išky~la grėsmė~ vaikų~ gyvy^bei
@@ -1360,7 +1360,7 @@ LIT/1609.wav|Liejy~klos dabarti`nė bū^klė mu`ms bu`vo gerai~ ži`noma
 LIT/1610.wav|demokra~tė tik vos vo~s pirma^uja
 LIT/1611.wav|tačiau~ nuo pa`t šių~ me~tų pradžio~s vėlu^oja išmokė^ti darbu^otojams alga`s
 LIT/1612.wav|Lū^pos tar~davo atsipra~šymo žodžiu`s
-LIT/1613.wav|pasibučia~vo tik po trijų~ mė^nesių
+LIT/1613.wav|pasibučia~vo tik po trijų~ mė^nesių2
 LIT/1614.wav|Nemy^li žmo^nės savę~s netauso^ja
 LIT/1615.wav|Kriminali`stas atsi`liepė išklau~sė ir~
 LIT/1616.wav|iš šarvų~ išlukštenau~ ir į~mečiau į bo^kštą
@@ -1390,7 +1390,7 @@ LIT/1639.wav|Vaika^ms labai~ retai~ išsivy^sto augliai~
 LIT/1640.wav|negu Gri`nai arba ka^rvės kitai~p ta~riant
 LIT/1641.wav|Im~davau sa`vo da^rbo kalendo~rių
 LIT/1642.wav|pirmininka~vęs dery^boms sa~kė
-LIT/1643.wav|nusivaly^k kiaušinie~nę nuo nasrų~
+LIT/1643.wav|nusivaly^k kiaušinie~nę nuo nasrų~2
 LIT/1644.wav|Šio re~ginio nele^idžiama nei filmu^oti
 LIT/1645.wav|švy~tintį kūrė^jo ta~lentą jo~ menta~linę poten~ciją
 LIT/1646.wav|kai pastari^eji suži`no kad ki`lęs iš Sici`lijos
@@ -1436,11 +1436,11 @@ LIT/1685.wav|čiu`pdamas ki`niškos ema~lės pipi`rinę
 LIT/1686.wav|ko~l bal~sas ro`botas sujun~gs su gy^vu žmogumi`
 LIT/1687.wav|Nu^otėkų va~lymo sistema`s prižiū~ri nepasiren~gę šia^m da^rbui
 LIT/1688.wav|yra` puiki` pri^emonė bent laikinai~ ištrū^kt iš vampy~ro
-LIT/1689.wav|kada` vy~ks Ža^lgirio treniruo~tės
+LIT/1689.wav|kada` vy~ks Ža^lgirio treniruo~tės?
 LIT/1690.wav|per ceremo`niją padė^jęs vaini`ką sa~kė
 LIT/1691.wav|Pana~šią simbo`liką že~mės sa^ulės
 LIT/1692.wav|Si^ekiant įgytų~ stu`dijų akade`minio pripažini`mo u`žsienyje
-LIT/1693.wav|ka`s ga~li tai~p be gai~lesčio nio^koti mū^sų visų~ tur~tą
+LIT/1693.wav|ka`s ga~li tai~p be gai~lesčio nio^koti mū^sų visų~ tur~tą?
 LIT/1694.wav|Įsta~tymai lai~komi priimtai~s
 LIT/1695.wav|ausų~ bei apiblu`kusių atle`to fo`rmų savinin~kas
 LIT/1696.wav|Vi`durio ir Rytų~ u`pių mineralingu`mas
@@ -1491,11 +1491,11 @@ LIT/1740.wav|a`tskiriant ine`rtines me~džiagas
 LIT/1741.wav|Gla^nsneris su žmo^na var~do nepa`menu
 LIT/1742.wav|nu`mezgė vi`są pul~ką viščiu`kų ir vi`štų
 LIT/1743.wav|ta^u veikia^usiai ži`nomas Liūtašir~džio pra~varde
-LIT/1744.wav|Vargu` ar ka`s drį~s gin~čyti faktu`s
+LIT/1744.wav|Vargu` ar ka`s drį~s gin~čyti faktu`s?
 LIT/1745.wav|Klai~pėdos ga~tvėse labai~ stili`ngų jaunų~ žmonių~ nedau~g
 LIT/1746.wav|Pro~tas ir laisva` valia` visada` de~ra
-LIT/1747.wav|kada` tiksliai~ bai~giasi pa~mokos
-LIT/1748.wav|ka`s gi čia` tai~p jau kone` ne`derama
+LIT/1747.wav|kada` tiksliai~ bai~giasi pa~mokos?
+LIT/1748.wav|ka`s gi čia` tai~p jau kone` ne`derama?
 LIT/1749.wav|kad ten~ galė~s žai~sti daugiau~ ir protingiau~
 LIT/1750.wav|pakeiti`mo ir pe^ržiūrėjimo tvarka`
 LIT/1751.wav|pinigų~ plovimu` ir organizu^otu nusikalstamumu`
@@ -1524,7 +1524,7 @@ LIT/1773.wav|Jo~s ti`kslas iša^iškinti priešvėžine`s gimdo~s kakle~lio vė^
 LIT/1774.wav|neve^ngiu ir muziki`nių festiva~lių
 LIT/1775.wav|ieško^dami ko no^rs užką^sti
 LIT/1776.wav|Konkuru^oti su le^nkais nelen~gva
-LIT/1777.wav|ar tame` besai~kiame šventime` yra` nors laše~lis nuoširdu`mo
+LIT/1777.wav|ar tame` besai~kiame šventime` yra` nors laše~lis nuoširdu`mo?
 LIT/1778.wav|kurie~ sa`vo ru^ožtu atspin~di grun~to drėgmė~s laidu`mo savy^bes
 LIT/1779.wav|ga~vę prane`šimą apie susida~riusią sko~lą
 LIT/1780.wav|le^idžiame Die~vui mumyse` įskie~pyti amžiną^sias verty^bes
@@ -1573,7 +1573,7 @@ LIT/1822.wav|ir je^igu pati`ks nusipir~kti
 LIT/1823.wav|Žva~kės iki` mylimo~sios du`rų
 LIT/1824.wav|Pagėgi`škis Va~clovas Kasna^uskas muzie~jui padovano^jo unika~lią kny~gą
 LIT/1825.wav|o vanden~s pavir~šiuje plū~duriavo
-LIT/1826.wav|ki^ek fe`rmos yra` modernizu^otos
+LIT/1826.wav|ki^ek fe`rmos yra` modernizu^otos?
 LIT/1827.wav|nomina~ciją atsi`ėmė jo~s dukra`
 LIT/1828.wav|Jau išle^idau per de~šimt tū^kstančių li`tų
 LIT/1829.wav|pi`liakalnį hidroelektri`nę
@@ -1587,7 +1587,7 @@ LIT/1836.wav|kai Liu`tkė gir~di ir Ke`nigas ant kalinių~ rė~kia
 LIT/1837.wav|apie kuria`s pra`neša litu`rginis Adven~to lai~kas
 LIT/1838.wav|ruo~šti iš jo~s įvairiu`s ga~minius
 LIT/1839.wav|absu`rdas ir no^ras J Augusti`ną išstu`mti iš da^rbo
-LIT/1840.wav|Tiesio^g priva~lome bū^ti džiaugsmi`ngi
+LIT/1840.wav|Tiesio^g priva~lome bū^ti džiaugsmi`ngi2
 LIT/1841.wav|Juo~s te~ko ve`žti į Liepo^jos ir Rygo~s o^ro u^ostus
 LIT/1842.wav|go~džiai glo^stė atgi`mstančią gam~tą
 LIT/1843.wav|ir pakri`kštyti kū~dikiai netru`kus nu`mirė
@@ -1630,7 +1630,7 @@ LIT/1879.wav|Administra~cinių nu^obaudų rū^šys
 LIT/1880.wav|kažkodė~l apsidai~rė nervi`ngai
 LIT/1881.wav|jo~s po^kyčiams ga~lima užbė^gti už akių~
 LIT/1882.wav|Geode`zijos ir kada~stro ka~tedroje
-LIT/1883.wav|ar pratę~sti jo~ da^rbą iki` pen~sijos
+LIT/1883.wav|ar pratę~sti jo~ da^rbą iki` pen~sijos?
 LIT/1884.wav|Mieste` ža~da plė~stis Ma~xima LT
 LIT/1885.wav|arba celofa~ninis maiše~lis
 LIT/1886.wav|kurioje` nuro^doma kelia~lapių rū^šis
@@ -1639,7 +1639,7 @@ LIT/1888.wav|mirky^ti ko^jas skala^uti ge^rklę
 LIT/1889.wav|primadona` yra` ma`no klie~ntė
 LIT/1890.wav|nuo šešių~ iki` vi^eno mė^nesio
 LIT/1891.wav|da^rbo nu^oma laikina`sis darbu^otojas
-LIT/1892.wav|Nea^išku ar jie~ da^r gyvi`
+LIT/1892.wav|Nea^išku ar jie~ da^r gyvi`?
 LIT/1893.wav|o se^ilių liau~kos gerai~ išvy^stytos
 LIT/1894.wav|visi` pasi`puošė rū^sčia ve^ido i`šraiška
 LIT/1895.wav|kurią~ tebu`vo ma~tę nosta^lgija dvel~kiančiose
@@ -1692,7 +1692,7 @@ LIT/1941.wav|nes gau~s dali`nės apdailo~s bu`tą
 LIT/1942.wav|skirto^ms konkreti^ems naudo~s gavė^jams
 LIT/1943.wav|kad koru`pcijos vai~zdas didžiai~ deformu^otas
 LIT/1944.wav|skubo~s vedy^bas ve^lnias nusine`š
-LIT/1945.wav|tvi`skesio ir naujo^vių ta`vo garderobe`
+LIT/1945.wav|tvi`skesio ir naujo^vių ta`vo garderobe`2
 LIT/1946.wav|ne visi` su`geba įsisa~vinti dė^stomą me~džiagą
 LIT/1947.wav|bei Jo~nas Bary~nas ir Sa^ulius Lukošiū^nas
 LIT/1948.wav|Vi^eną na~ktį ją~ paža~dino są^rėmiai
@@ -1719,7 +1719,7 @@ LIT/1968.wav|Ran~kdarbius ji mė^go ir seniau~
 LIT/1969.wav|Kodė~l Va^ršuva šia^m vizi`tui pasirin~ko ne Briu`selį
 LIT/1970.wav|Konku`rso dalyviu`s ve^rtino kompetenti`nga komi`sija
 LIT/1971.wav|sa`vo ga~liomis puikiu` potencialu`
-LIT/1972.wav|laiky^kitės iki` paskutinių~jų
+LIT/1972.wav|laiky^kitės iki` paskutinių~jų2
 LIT/1973.wav|į^spūdžiais dali`josi vilnie~tis
 LIT/1974.wav|o u`žsienio reikalų~ ministru` Radi`slawas Siko`rskis
 LIT/1975.wav|nešini` pyra~gais ir sūriu`
@@ -1729,9 +1729,9 @@ LIT/1978.wav|Ščiuka^uskienė Muni`škių sene~lių globo~s nama^ms
 LIT/1979.wav|atli`kti kitu`s šiuose` Nu^ostatuose numaty^tus veiksmu`s
 LIT/1980.wav|Pasak komisaria~to vir~šininko S Meliū^no
 LIT/1981.wav|nesitikė^damas pe^rtraukti Ro`lio monolo`go
-LIT/1982.wav|kur~ suti`ksite Nauju^osius metu`s
+LIT/1982.wav|kur~ suti`ksite Nauju^osius metu`s?
 LIT/1983.wav|ir paklausy^k ką~ aš ta^u pasaky^siu
-LIT/1984.wav|ki^ek hekta~rų šio~s že~mės dirvonu^oja
+LIT/1984.wav|ki^ek hekta~rų šio~s že~mės dirvonu^oja?
 LIT/1985.wav|Suren~gtume sku`lptorių pleneru`s
 LIT/1986.wav|Vo~s ja^m atsiga~vus Ga^ika vė~l kla^usia
 LIT/1987.wav|Jūra~tė Sužiedely^tė Visocki^enė
@@ -1763,7 +1763,7 @@ LIT/2012.wav|pilnuose` kačių~ šunų~ triu`šių ir pur~vo
 LIT/2013.wav|o ta^m reikali`ngos duomenų~ ba~zės
 LIT/2014.wav|Bi`rštono Bi`ržų Jonavo~s
 LIT/2015.wav|Bioma~sės kie~kio nusta~tymo meto`das
-LIT/2016.wav|o ga^l ma`no epide`rmis jau tikrai~ bevil~tiškai suru`kęs
+LIT/2016.wav|o ga^l ma`no epide`rmis jau tikrai~ bevil~tiškai suru`kęs?
 LIT/2017.wav|kad mo^teriai versle` ne vieta`
 LIT/2018.wav|kad ji`s lai~ko save` lietuviu`
 LIT/2019.wav|aktyviai~ kovo^jo pirtie~s mėgė^jų grupuo~tės seniū~nas
@@ -1776,7 +1776,7 @@ LIT/2025.wav|Sky~sčio kva~pas būdi`ngas naminu`kei
 LIT/2026.wav|Dabar~ vi`skas žy~miai rimčiau~ negu` anuo~met
 LIT/2027.wav|pa~što že^nklus pa~puošalus ar kt
 LIT/2028.wav|todė~l gerai~ stel~bia pi`ktžoles
-LIT/2029.wav|kur~ ga~lima vedžio^ti keturkoju`s
+LIT/2029.wav|kur~ ga~lima vedžio^ti keturkoju`s?
 LIT/2030.wav|Taurė~ atsi`trenkė į si^eną ir sudu`žo
 LIT/2031.wav|ir lėti`nėmis i`nkstų ar šlapi`mo pūslė~s ligomi`s
 LIT/2032.wav|mat drau~gė pa`kvietė į įkurtuve`s
@@ -1784,7 +1784,7 @@ LIT/2033.wav|Europie~čiams ši` mėsa` skoniu` pri`mena ja^utieną
 LIT/2034.wav|ta`s niekuome`t jau nebeatsikel~s
 LIT/2035.wav|o dėl mo^kytojų algų~ norė^čiau primin~ti
 LIT/2036.wav|du tū^kstančiai penktų~jų rugpjū^tį
-LIT/2037.wav|dvi^em ar ato^stogų laiko^tarpiui
+LIT/2037.wav|dvi^em ar ato^stogų laiko^tarpiui?
 LIT/2038.wav|Čiurlio^nio moky~kloje mu`s mo^kydavo
 LIT/2039.wav|Juo~s laiku` sudoro^ti sutru`kdė užsitę~susi augalų~ vegeta~cija
 LIT/2040.wav|To~s siur~bėlės jį~ tai~p išse~kino
@@ -1794,7 +1794,7 @@ LIT/2043.wav|kad no^rs di`rba vis daugiau~ žmonių~
 LIT/2044.wav|Investi`cijos į NT nedo~mina
 LIT/2045.wav|kai ji`s i`šrenkamas gyve^ntojų
 LIT/2046.wav|To^ks smū~gis ga~li suplė^šyti ši^ems plėšrū~nams ke~penis
-LIT/2047.wav|Ir kada` tu` žadi` bai~gti tą~ Ki`nų Kvarta~lą
+LIT/2047.wav|Ir kada` tu` žadi` bai~gti tą~ Ki`nų Kvarta~lą?
 LIT/2048.wav|Mi`rusio fi`zinio asmen~s tur~tas
 LIT/2049.wav|jog daugiau~ mė^giamos ryškiaspal~vės gė~lės
 LIT/2050.wav|Panevėžyje` kito^kia tvarka`
@@ -1807,7 +1807,7 @@ LIT/2056.wav|Alyti`škė Loreta` Marčiula^itienė
 LIT/2057.wav|viduri`nio neoli`to Švento^ji try~s B
 LIT/2058.wav|o iš pe^rpildytų kontei~nerių ver~žiasi šiu`kšlės
 LIT/2059.wav|De~šimtys tū^kstančių vyre`snio a^mžiaus žmonių~
-LIT/2060.wav|Kur~ pa`kasei pi`nigus kur~ pa`slėpei
+LIT/2060.wav|Kur~ pa`kasei pi`nigus kur~ pa`slėpei?
 LIT/2061.wav|tarp jų~ ir u`žsienio šalių~
 LIT/2062.wav|Stefa` Navarda^itienė ir gru`pės Gama` bei Gelmė~
 LIT/2063.wav|šiuo~ momentu` žvel~giantis į pra~eitį
@@ -1817,23 +1817,23 @@ LIT/2066.wav|Šį~syk į Sarga~skoje mie~stą Si`bire
 LIT/2067.wav|o sun~kūs drabu`žiai ir ba~tai tem~pė į du`gną
 LIT/2068.wav|ne`t aštuonkam~pišką susitar~šiusios grai~kų gaujo~s dra^ikiojimąsi
 LIT/2069.wav|ava^nsu priklija~vo di`delį mi`nusą
-LIT/2070.wav|La^ukite Jo~ ga^rbinkite ir mel~skite
+LIT/2070.wav|La^ukite Jo~ ga^rbinkite ir mel~skite2
 LIT/2071.wav|Esą~ tai~ pa`deda susikau~pti
-LIT/2072.wav|o ga^l kliū^tis sly~pi kur ka`s anksčiau~
+LIT/2072.wav|o ga^l kliū^tis sly~pi kur ka`s anksčiau~?
 LIT/2073.wav|kurie~ piktnaudžia^uja svaigiai~siais gė^rimais
-LIT/2074.wav|ką~ gali` žino^ti ka`s kada` kai~p
+LIT/2074.wav|ką~ gali` žino^ti ka`s kada` kai~p?
 LIT/2075.wav|Je^igu bū^tų le^idžiama nu`lis pro`milių
 LIT/2076.wav|Jis atei~s kaip lietu`s ant nupjauto~s lanko~s
-LIT/2077.wav|ga^l jį~ ga~lima kokiomi`s žole~lėmis
+LIT/2077.wav|ga^l jį~ ga~lima kokiomi`s žole~lėmis?
 LIT/2078.wav|kurių~ darbai~ puo~šė gale`rijos si^enas
 LIT/2079.wav|Ir turbū^t neblo~gą a~tlygį ga~vo
-LIT/2080.wav|todė~l galbū^t kas no^rs di`rbęs prieš tai~
+LIT/2080.wav|todė~l galbū^t kas no^rs di`rbęs prieš tai~?
 LIT/2081.wav|lengvai~ ga~lima supra`sti kuri`s iš jų~ tro^kšta
 LIT/2082.wav|kad nie~kaip negalė~s tavę~s pasiso^tinti
 LIT/2083.wav|metu`s pagulė^jęs jū^ros dugne`
 LIT/2084.wav|ta`vo moteri`škės bate~liai nei iš šio~
-LIT/2085.wav|ar bu`s ir vė~l pe^rrašyta į tre~čiąjį po^grupį
-LIT/2086.wav|ki^ek toje` grožy^bėje yra` ti`kro gro~žio
+LIT/2085.wav|ar bu`s ir vė~l pe^rrašyta į tre~čiąjį po^grupį?
+LIT/2086.wav|ki^ek toje` grožy^bėje yra` ti`kro gro~žio?
 LIT/2087.wav|jog ją~ rekomenda~vo kole`gos šve`dai
 LIT/2088.wav|labai~ grei~tai užsimo^jama ir plačiau~
 LIT/2089.wav|Sprendi`mai klau~symų metu` nepriimami`
@@ -1866,18 +1866,18 @@ LIT/2115.wav|Rem~damasis V Navicku` die~nraštis ra~šė
 LIT/2116.wav|Dažnai~ ne`t ir po skausmi`ngų skyry^bų
 LIT/2117.wav|gamto~s kara~lius ar ti`k mišiny~s mo^lio
 LIT/2118.wav|patogesni` ir geresni` už ku`klų vasa^rnamį
-LIT/2119.wav|ar V Pociū^nas bu`vo kieno~ no^rs nužudy^tas
+LIT/2119.wav|ar V Pociū^nas bu`vo kieno~ no^rs nužudy^tas?
 LIT/2120.wav|ba^nkų padedami` juo~s o ne senu`s la^užus
 LIT/2121.wav|Ji` paė~jo ke~letą neryžti`ngų žin~gsnių
 LIT/2122.wav|pajū^rio ozo`ną ar saki`ngą pušy^no o^rą
-LIT/2123.wav|ar kaip pelė^ms ir de~ra virtu`vėje
-LIT/2124.wav|ar suti`ktų ta^ikytis su bu`vusiu da^rbdaviu ŽTV
+LIT/2123.wav|ar kaip pelė^ms ir de~ra virtu`vėje?
+LIT/2124.wav|ar suti`ktų ta^ikytis su bu`vusiu da^rbdaviu ŽTV?
 LIT/2125.wav|Ir štai~ ko^kią nu^omonę susidariau~
 LIT/2126.wav|Nuobodu` nebu`vo su Mo^riu išnar~šėm visa`s ola`s
 LIT/2127.wav|antropomo`rfinių ir abstrakčių~ geome`trinių figū~rų
-LIT/2128.wav|ar ji` grindžiama` savi`šalpos draudimu`
+LIT/2128.wav|ar ji` grindžiama` savi`šalpos draudimu`?
 LIT/2129.wav|Po~nas Ri`mas i`tin ve^rtina sa~vitą dekoraty~vų sa`vo žmono~s
-LIT/2130.wav|Ar ne geriau~ bū^tų grį~žti į Egi`ptą
+LIT/2130.wav|Ar ne geriau~ bū^tų grį~žti į Egi`ptą?
 LIT/2131.wav|ir ji`s tu`čtuojau bū^tų bu`vęs iš la~gerio pale^istas
 LIT/2132.wav|ir jo~ drau~gas Juo~zas su me~škere nesi`skiria jau dau~g me~tų
 LIT/2133.wav|atvy~kęs į Ita~liją ji`s pa`keitė gi^esmę
@@ -1902,7 +1902,7 @@ LIT/2151.wav|Ne`t tik rate~liuose ju`dantiesiems
 LIT/2152.wav|Tiesio^g jo~s ge~ba blai~viai ve^rtinti po^reikius ir ži`no se~ną tie~są
 LIT/2153.wav|kai~p laiku` jo~s bu`vo su`rinktos
 LIT/2154.wav|ano^t dau~gelio ka^lbintų sodie~čių
-LIT/2155.wav|Tad užde`kime I`lgių šven~tėje kiekvi^enas po žvake~lę ir sa^u
+LIT/2155.wav|Tad užde`kime I`lgių šven~tėje kiekvi^enas po žvake~lę ir sa^u2
 LIT/2156.wav|o jo~s i`škepto neli`ko nė trupinė~lio
 LIT/2157.wav|Sidnė^juje sa~kė amerikie~čių ka~ro Irake` vetera~nas Ma~ttas Ho`wardas
 LIT/2158.wav|iš akmenų~ sumū^rijo šu`linį
@@ -1920,7 +1920,7 @@ LIT/2169.wav|ga~li lengvai~ nuve`sti į akla~vietę
 LIT/2170.wav|ki`tą sy~kį ji`s tave` jai~s pale~pins
 LIT/2171.wav|Da^ilintų smiltai~nio plokšte`s ir ju^odą grani`tą
 LIT/2172.wav|Pamažu` ir įsivažiavau~ o kar~tą paraga~vęs
-LIT/2173.wav|nepaniku^okime ir neveidmainia^ukime
+LIT/2173.wav|nepaniku^okime ir neveidmainia^ukime2
 LIT/2174.wav|o jie~ automa~tų kul~komis na~mą išvar~pė
 LIT/2175.wav|Klu`bas fu`tbolininkui sky^rė kote`džą
 LIT/2176.wav|gėlėse` ske^ndinčių mie~stų
@@ -1976,7 +1976,7 @@ LIT/2225.wav|dau~gelis jų~ jau labai~ pase~nę
 LIT/2226.wav|Jo~nas Bebai~mis įkū^nija civi`linę drą~są
 LIT/2227.wav|Šiomi`s dienomi`s skelbiami` konku`rsai lo^pyti ir asfaltu^oti ga~tvių duobe`s
 LIT/2228.wav|vy^kdomojo dokumen~to nu`meris
-LIT/2229.wav|kur~ dire`ktorius Gie~drius Čičiu`rka
+LIT/2229.wav|kur~ dire`ktorius Gie~drius Čičiu`rka?
 LIT/2230.wav|bė^gančius į pri^eglaudos mie~stą
 LIT/2231.wav|I`škilmes stebė^ję pasvalie~čiai juoka~vo
 LIT/2232.wav|ru`dosios la~pės usū~riniai šu`nys
@@ -1990,7 +1990,7 @@ LIT/2239.wav|įdėmiai~ žvi`lgtelėdavo vidun~
 LIT/2240.wav|sudė^tos brangia^usios pre~kės
 LIT/2241.wav|beve^ik pu`sei tiriamų~jų ro^do ikidiabe`tinę bū^klę ar jau e~santį CD
 LIT/2242.wav|skir~tą po^ilsiui ir jėgo^ms atga^uti
-LIT/2243.wav|Ga^l jame` bu`vę žmo^nės ką no^rs šnipinė^jo
+LIT/2243.wav|Ga^l jame` bu`vę žmo^nės ką no^rs šnipinė^jo?
 LIT/2244.wav|tai nakti`puodžio kėdu`tė ja^m ly^g ir nebepriklau~so
 LIT/2245.wav|Į^taką ja^m pada~rė le^nkų roma^ntikai Ado~mas Micke~vičius
 LIT/2246.wav|o šio~ che`minio elemen~to išradė^ja
@@ -2031,7 +2031,7 @@ LIT/2280.wav|Gra~co įžymy^bės Ro~tušės aikštė~
 LIT/2281.wav|o režisie~rius A^nthony Minghe`lla
 LIT/2282.wav|Jo~ dideny^bė Pi`tijus keturio^liktasis kry~žkelėje susta~bdė ži`rgą
 LIT/2283.wav|kad Vokietija` ga~li ka~rą pralaimė^ti
-LIT/2284.wav|Tegul~ a^uga žo~lės ma^n jo~s gra~žios
+LIT/2284.wav|Tegul~ a^uga žo~lės ma^n jo~s gra~žios2
 LIT/2285.wav|Kelia~vo po Kauka~zą Šveica~riją
 LIT/2286.wav|bloku^oja ratu`s tik paliktų~ ga~tvėse
 LIT/2287.wav|nepa^isant visų~ globalių~ ir lokalių~ lū~žių
@@ -2045,7 +2045,7 @@ LIT/2294.wav|pe^rkvalifikavimo bei su tuo~ susi`jusių gara^ntijų ir lengva~tų
 LIT/2295.wav|Ma^n nerei~kia nie~ko žino^ti apie~ save`
 LIT/2296.wav|nes danguje` maši`nos dau~g dide`snės
 LIT/2297.wav|Jie~ neatsistaty^dino iš vyriausy^bės
-LIT/2298.wav|sa^ugokitės kad viduriai~ nesuge`stų
+LIT/2298.wav|sa^ugokitės kad viduriai~ nesuge`stų2
 LIT/2299.wav|Je^i Danta` krei~psis į tei~smą
 LIT/2300.wav|Šia^m ti`kslui bu`vo su`kauptas nemen~kas arsena~las
 LIT/2301.wav|įve^rtinta pagal~ analo`gų du^omenis
@@ -2056,7 +2056,7 @@ LIT/2305.wav|ji`s lie~ka gerklėje` štai~ vė~l gerklė~
 LIT/2306.wav|Modifiku^otas ga~li bū^ti kukurū~zų
 LIT/2307.wav|mokė^jimų ir į^gūdžių po^reikiai
 LIT/2308.wav|Entuzia~zmo ku`pinas lituani`stas
-LIT/2309.wav|Kažin ką~ Sei~mo narė~s sūnu`s augin~s
+LIT/2309.wav|Kažin ką~ Sei~mo narė~s sūnu`s augin~s?
 LIT/2310.wav|nuo mėso~s į žarija`s varvė^jo či`rškantys riebalai~
 LIT/2311.wav|kuriame` mini`strui ke~liama dvy^lika kla^usimų
 LIT/2312.wav|salie~rų po`rų žalumy^ninių daržo^vių
@@ -2091,14 +2091,14 @@ LIT/2340.wav|tarp kurių~ bu`vo ir garsių~
 LIT/2341.wav|a`pimančioje du tū^kstančius tri`s šimtu`s m
 LIT/2342.wav|re^iškia atve^rti sa`vo vi`dų kažka^m kita^m
 LIT/2343.wav|krau~jo suplūdi`mas į ga^lvą
-LIT/2344.wav|Ar prie šio~ proce`so prisidė^jo valsty^bė
+LIT/2344.wav|Ar prie šio~ proce`so prisidė^jo valsty^bė?
 LIT/2345.wav|kuria^i priklau~so Ša~kviečio ka^imas
 LIT/2346.wav|Akva~riume skiriami` pasima~tymai
 LIT/2347.wav|tariamai~ skirti` mo^kslo reikmė^ms
 LIT/2348.wav|Horosko`pas nežy~mi pagirių~ pabaigo~s
 LIT/2349.wav|galvo^dama ką~ pasaky~s buha^lteris
 LIT/2350.wav|kai~ įsiviešpata~vus koloniji`niam eli`tui
-LIT/2351.wav|ko^kias knyga`s mielia^usiai ver~sčiau
+LIT/2351.wav|ko^kias knyga`s mielia^usiai ver~sčiau?
 LIT/2352.wav|Sugrį~žus visi` sė^do prie stalų~ ir
 LIT/2353.wav|Šią~ sava^itę pu`sė užsa~kymų pilka^jam
 LIT/2354.wav|bu`vo sutve^rti pagal~ Die~vo a~tvaizdą
@@ -2119,12 +2119,12 @@ LIT/2368.wav|Žmo^nės ra~šė A~ Braza^uskui
 LIT/2369.wav|Ie~šmui pe^rkelti rei~kia šešių~ aštuonių~ va^l
 LIT/2370.wav|Tirti` penki` ban~dymų varia^ntai
 LIT/2371.wav|tačiau~ ji neparo^do vi`so valsty^bės užval~dymo ma~sto
-LIT/2372.wav|Kai~p reikė^tų gyve^nti kad paskui~ nesigailė^tum
+LIT/2372.wav|Kai~p reikė^tų gyve^nti kad paskui~ nesigailė^tum?
 LIT/2373.wav|kruo~pščiai ir stro~piai atlikti` darbai~
-LIT/2374.wav|o ką~ tada` vei~kėte jū~s Anato`lijau
+LIT/2374.wav|o ką~ tada` vei~kėte jū~s Anato`lijau?
 LIT/2375.wav|Studen~tai išmo^ksta atvaizdu^oti daly~kines sriti`s GI`S duomenų~ mo`deliuose
 LIT/2376.wav|užu^ot juo~s pelni`ngai investa~vę
-LIT/2377.wav|Ar ga~lima apsiei~ti be table`tės
+LIT/2377.wav|Ar ga~lima apsiei~ti be table`tės?
 LIT/2378.wav|sa~kė Valsty^bės Dūmo~s deputa~tas
 LIT/2379.wav|Pirmi`nė mate`rija a^udeklas
 LIT/2380.wav|no^riu pasipuo~šti prieš to^kį iš pi^eno plau~kusį vai~kį
@@ -2159,7 +2159,7 @@ LIT/2408.wav|bet ne`t ir jo~s valstybingu`mui
 LIT/2409.wav|kai laiku` neparei~davo į namu`s
 LIT/2410.wav|o paskui~ kara~lių Zi`gmanto Va~zos
 LIT/2411.wav|Vokieti`joje ma`no šeimo~s teira~vosi
-LIT/2412.wav|Tu` galbū^t ne`perki kvepalų~ Kri`sti A~noje
+LIT/2412.wav|Tu` galbū^t ne`perki kvepalų~ Kri`sti A~noje?
 LIT/2413.wav|turi`zmo parodoje` Balttu`rs
 LIT/2414.wav|Ji` nuo rugsė^jo pirmo~sios išė~jo į užtarna^utą po^ilsį
 LIT/2415.wav|kad Žibinin~kų ka^imo Kre`tingos r
@@ -2189,13 +2189,13 @@ LIT/2438.wav|kažka`s ė~mė ir suna^rpliojo me~zginį
 LIT/2439.wav|Eski`zai labai~ padė^jo pa~rodai jie~ pagy^vino ekspozi`ciją
 LIT/2440.wav|repetu^oja savi`veiklininkai
 LIT/2441.wav|Juo~kdario žvil~gsnis stry^kčiojo nuo vi^eno ve^ido prie ki`to
-LIT/2442.wav|kada` šalyje` bu`s į~vestas eu~ras
+LIT/2442.wav|kada` šalyje` bu`s į~vestas eu~ras?
 LIT/2443.wav|tačiau mama` jo~ prie mū^sų neprile^ido
 LIT/2444.wav|šurmulia~vo triukšmi`nga mu`gė
 LIT/2445.wav|Nusikalti`mų recidy~vas yra` tada`
 LIT/2446.wav|H Cli`nton lai~koma favorite` ir Oha~juje
-LIT/2447.wav|Ar ta^u ja`s tu`ri visi` garsai~
-LIT/2448.wav|Ko^kiu pri`ncipu rin~kdavosi paty^čių au~ką
+LIT/2447.wav|Ar ta^u ja`s tu`ri visi` garsai~?
+LIT/2448.wav|Ko^kiu pri`ncipu rin~kdavosi paty^čių au~ką?
 LIT/2449.wav|neįgali^eji greičiau~ sulau~ks paga^lbos
 LIT/2450.wav|Vi^enas populiaria^usių pri^etarų juoda` katė~
 LIT/2451.wav|jau gyve~nant Ba^lninkuose kar~tą bai~gėsi ir pinigai~
@@ -2226,7 +2226,7 @@ LIT/2475.wav|atgabe^nti iš vanden~s telkinių~
 LIT/2476.wav|jose` ir užbai~gsiu kelio~nę
 LIT/2477.wav|pavo~jus ska~tino bū^ti budriai~s
 LIT/2478.wav|ą^žuolo nuo be^ržo a^nglų do`go nuo ku`rto
-LIT/2479.wav|ka^m gi be rei~kalo su jomi`s pja^utis
+LIT/2479.wav|ka^m gi be rei~kalo su jomi`s pja^utis?
 LIT/2480.wav|i`štaria Sei~mo nary~s ir nuty~la
 LIT/2481.wav|Vos gyva` vargai~s negalai~s po poro~s dienų~ i`ššliaužiau iš po griuvė~sių
 LIT/2482.wav|dabar~ galė^jo didžiu^otis sa`vo bara~kais
@@ -2234,8 +2234,8 @@ LIT/2483.wav|ir arba` to patie~s laiko^tarpio du^omenys
 LIT/2484.wav|jausdami` socia~linę į^tampą ir že~mą žmonių~ gyve~nimo ly~gį
 LIT/2485.wav|pa`ėmė bra^ngakmenį pasižiūrė^jo ir nusi`juokė
 LIT/2486.wav|kla^idžiojimas chaose` ir šešė^liuose
-LIT/2487.wav|kada` ir ko^kius dokumentu`s ne`šti
-LIT/2488.wav|ką~ a`š darau~ vi`są tą lai~ką
+LIT/2487.wav|kada` ir ko^kius dokumentu`s ne`šti?
+LIT/2488.wav|ką~ a`š darau~ vi`są tą lai~ką?
 LIT/2489.wav|bu`vo fa~brikas sinte`tiniam ku`rui gami`nti
 LIT/2490.wav|par~davei sa`vo kra~štą už keli`s auksiniu`s
 LIT/2491.wav|Apgyve^ndino puikiame` vie~šbutyje
@@ -2246,7 +2246,7 @@ LIT/2495.wav|žmogau~s palaikų~ paruoši`mas kremu^oti
 LIT/2496.wav|Tuo~ ir bai~gėsi poli`tinio sky^riaus poli`tika su mumi`s
 LIT/2497.wav|Citu^oju Krei~pkis į  A^rmy
 LIT/2498.wav|tik tada` me~s šiek ti^ek išlaisvė^sim
-LIT/2499.wav|Kas la^ukia neįgalių~jų asocia~cijų
+LIT/2499.wav|Kas la^ukia neįgalių~jų asocia~cijų?
 LIT/2500.wav|Praksi`los bei Telesi`los ei~lės
 LIT/2501.wav|ir iš įtrūki`mų išlin~do raudo^ni
 LIT/2502.wav|nusė^da kepenyse` ant žandų~ ir blaksti^enų
@@ -2258,7 +2258,7 @@ LIT/2507.wav|užpakaliu`ką ji` stie~biasi ant pir~štų galų~
 LIT/2508.wav|todė~l šioje` apžvalgoje` jie~ nebu`s aptariami`
 LIT/2509.wav|o svarbia^usia visai~s gyve~nimo eta~pais ga~li si^ekti spo`rtinio tobulu`mo
 LIT/2510.wav|kad jau~tėsi labai~ vieniša`
-LIT/2511.wav|Ar mo^ku atski`rti ka`s pragai~šta
+LIT/2511.wav|Ar mo^ku atski`rti ka`s pragai~šta?
 LIT/2512.wav|o Niujo`rką te`ks pe^rvadinti Senu^oju Vi`lniumi
 LIT/2513.wav|Rei~ks šį~ kar~tą išrė^žti ji^ems vi`ską
 LIT/2514.wav|Že~mės ū^kio paskirtie~s že~mė speci`finė
@@ -2269,18 +2269,18 @@ LIT/2518.wav|aplen~kęs Dona~tą Stosiū^ną ir Ri`mantą Danilke~vičių
 LIT/2519.wav|į kurį~ gali` pi`lti ką no^ri ir da^r daugy^bė kito^kių perliu`kų
 LIT/2520.wav|įstei~gti didžiu`lį žvy~ro karje`rą
 LIT/2521.wav|Taip pa`t ti`kimasi ga^uti atsa~kymą
-LIT/2522.wav|ar nesukū^rus ko^kio dide`snio da^ikto
+LIT/2522.wav|ar nesukū^rus ko^kio dide`snio da^ikto?
 LIT/2523.wav|Liga` da^r ne vi`ską pasa~ko apie žmo~gų
 LIT/2524.wav|lanky^tojus žavė^jo gra~žūs ir patrau~klūs
 LIT/2525.wav|užsa~kymus vy^kdantys žudi`kai ir negailesti`ngi plėši`kai
 LIT/2526.wav|tei~smo motyvu^otu sprendimu` ga~li bū^ti atle^istas nuo baudžiamo~sios atsakomy^bės
 LIT/2527.wav|kitų~ valsty^bės i`šteklių fo`ndų
 LIT/2528.wav|toliau~ nuo auglių~ vidau~s o`rganuose dve~sia pau~kščiai
-LIT/2529.wav|ką~ ja^i re^iškia bū^ti po va^ndeniu
+LIT/2529.wav|ką~ ja^i re^iškia bū^ti po va^ndeniu?
 LIT/2530.wav|je^igu norė~s išei~ti į la^isvę
 LIT/2531.wav|kad įtariama`sis užpuoli`kas šio~s moky~klos dvylikto~kas
 LIT/2532.wav|jog tro^kštame gyve^nti ramiai~ ir sau~giai
-LIT/2533.wav|Ar girdė^jai ka`s nuti`ko Ju^odpelynyje
+LIT/2533.wav|Ar girdė^jai ka`s nuti`ko Ju^odpelynyje?
 LIT/2534.wav|Ir nuo~lat šo^ko pramoginiu`s šokiu`s
 LIT/2535.wav|iš visų~ sa`vo žaidė^jų Šiška^uską aikštėje` lai~kė ilgia^usiai
 LIT/2536.wav|nes pro~tui ji`s patei~kia vi`są ki`rbinę minčių~
@@ -2288,9 +2288,9 @@ LIT/2537.wav|A~leksą pašiur~pino to^ks mentalite`tas
 LIT/2538.wav|Ten~ yra` bal~dų fabrikė~lis
 LIT/2539.wav|Die~ną renku` cigare`čių nu^orūkas
 LIT/2540.wav|Vy^rui ne~rimą ke~lia kur ka`s žemiškesni` daly~kai
-LIT/2541.wav|Kuri`s čia` bu`s profe`sorius
+LIT/2541.wav|Kuri`s čia` bu`s profe`sorius?
 LIT/2542.wav|kad be da^rbo ti^ek lai~ko čia` sto^viu
-LIT/2543.wav|Paim~kit armė^niško konja~ko
+LIT/2543.wav|Paim~kit armė^niško konja~ko2
 LIT/2544.wav|apkla^usę tri`s M Ke`rcher draugu`s
 LIT/2545.wav|R Rupšy~s Tauragė~s ku`rjeriui sa~kė galį~s tik spėlio^ti
 LIT/2546.wav|užsi`ima gra~fika ir tapy^ba
@@ -2378,15 +2378,15 @@ LIT/2627.wav|kvie~simės stipria^usius dė^stytojus iš u`žsienio
 LIT/2628.wav|Smilte~lės pi`rmininkas K Gelumba^uskas pabrė^žia
 LIT/2629.wav|kai Die~vas va^ikšto tarp mū^sų
 LIT/2630.wav|Želdy^nus ir že^ldinius inventorizu^ojantys speciali`stai
-LIT/2631.wav|Močiu`te ne tokia` dabar~ mada`
+LIT/2631.wav|Močiu`te ne tokia` dabar~ mada`2
 LIT/2632.wav|Tik nuo žmonių~ geranorišku`mo priklau~so
-LIT/2633.wav|Į ką~ da^r norė^tumėte atkrei~pti aukcio`no daly~vių dė~mesį
+LIT/2633.wav|Į ką~ da^r norė^tumėte atkrei~pti aukcio`no daly~vių dė~mesį?
 LIT/2634.wav|Ja^i svarbu` ne raižy^ti o spa^usti
 LIT/2635.wav|Pri^ekyje du` sargy^biniai lydė^jo ir~gi du`
 LIT/2636.wav|Ri`čardo gauja` apiplė^šė dvi` karalyste`s Sici`liją ir Ki`prą
 LIT/2637.wav|Tu` nepy^k kad liepiau~ užsičia^upti
 LIT/2638.wav|ken~čiantiems nuo neteisingu`mo
-LIT/2639.wav|ko^kios svar~bios bū^tų mu`ms pa`vestos u`žduotys
+LIT/2639.wav|ko^kios svar~bios bū^tų mu`ms pa`vestos u`žduotys?
 LIT/2640.wav|ko ge~ro iki pa`t ga~lo a`š tuo~ tikiu`
 LIT/2641.wav|Šie~met Te`ksasas įvy^kdė beve^ik du` tre~čdalius egzeku`cijų
 LIT/2642.wav|Toliau~ ga~lite im~tis baltų~ aksesua~rų
@@ -2412,7 +2412,7 @@ LIT/2661.wav|o me~s operatyviai~ prane`šime Rieta~vo utiliza~cijos gamy~klai
 LIT/2662.wav|ga^l jie~ mane` pamir~šo ne`
 LIT/2663.wav|patogi` yra` ne maže`snė kaip devyni`
 LIT/2664.wav|Glicero`lis tu`ri keturių~ ti`pų jungti`s
-LIT/2665.wav|Ir iš vi`so ko~ ta^u iš manę~s pri`reikė
+LIT/2665.wav|Ir iš vi`so ko~ ta^u iš manę~s pri`reikė?
 LIT/2666.wav|išsky^rus administra~cinį a~reštą
 LIT/2667.wav|Su trijų~ pa^rtijų koali`cija mu`ms nepakeliui~
 LIT/2668.wav|nors ir ba^iminasi a^ugančių ka^inų
@@ -2422,7 +2422,7 @@ LIT/2671.wav|Abi^em kla^usimams vi^enbalsiai pri`tarta
 LIT/2672.wav|pasta~to kal~bančio Die~vo aki`vaizdoje
 LIT/2673.wav|tada` ligo^nis ma~to švieso~s bly^ksnius
 LIT/2674.wav|o Mairo^nis krikde`mų apologe`tas ir dai~nius
-LIT/2675.wav|Ir ką~ gi ta^u sa~kė garbu`sis sve~čias iš toli`
+LIT/2675.wav|Ir ką~ gi ta^u sa~kė garbu`sis sve~čias iš toli`?
 LIT/2676.wav|Fenomenolo`gai u`gdymo procese`
 LIT/2677.wav|bet ma^n labia^usiai rū~pi kirvu`kas
 LIT/2678.wav|išmo^kęs atse`gti vi^eną liemenė~lę
@@ -2448,7 +2448,7 @@ LIT/2697.wav|Si^ekiant bū^ti geru` vadovu`
 LIT/2698.wav|Kada^ngi šie~ ieško~s da^rbo kitur~
 LIT/2699.wav|įsispra^udusi į nelabai~ šva~rią
 LIT/2700.wav|kad žmogu`s kar~tą die~ną pašler~pia kopū~stų sriubo~s
-LIT/2701.wav|du^ok ma^n ilgai~ da^r ei~ti tuo~ keliu`
+LIT/2701.wav|du^ok ma^n ilgai~ da^r ei~ti tuo~ keliu`2
 LIT/2702.wav|bū^tų lai~komas korumpu^otai įgy^tu
 LIT/2703.wav|Šiaulių~ rajo`no me`ras Ra^imundas Jaku`tis apie~ proje`kto ei~gą taip pa`t nedau~g ži`no
 LIT/2704.wav|nei fotogra~fas už ja`s nega~vo jo^kio a~tlygio
@@ -2488,7 +2488,7 @@ LIT/2737.wav|Pa`ts Bieli`nis ga^l pri`minė
 LIT/2738.wav|Per vi^eną iš i`tin retų~ bendrų~ kelio~nių
 LIT/2739.wav|gu`linčią ant gobelenu` apmušto~s so`fos
 LIT/2740.wav|akla` jėga` ir a~klas nu^otykis
-LIT/2741.wav|ko^kį ekolo`gišką transpo`rtą rei~kia di^egti mieste`
+LIT/2741.wav|ko^kį ekolo`gišką transpo`rtą rei~kia di^egti mieste`?
 LIT/2742.wav|prie Ateitie~s viduri`nės Dega^ičių sky~rius
 LIT/2743.wav|dokumen~tai automobi`lis try~s to`nos šie~no
 LIT/2744.wav|dvi` la~zdos pliu`mptelėjo per Jurgu`čio nu`garą
@@ -2501,10 +2501,10 @@ LIT/2750.wav|lyg ty^čia prie kažkokių~ garbių~ svečių~
 LIT/2751.wav|pa~vyzdžiui seni` magnetofo`nai
 LIT/2752.wav|an~tpečiais dvi`gubu užsegimu`
 LIT/2753.wav|Nusto^jo ke`pti kura~pkos ir faza~nai
-LIT/2754.wav|patei~k dokumentu`s So^drai ir tai~p toliau~
+LIT/2754.wav|patei~k dokumentu`s So^drai ir tai~p toliau~2
 LIT/2755.wav|tokių~ lė^šų biudžete` nėra`
 LIT/2756.wav|kuri`s nei~gia nužu`dęs A~ Litvinen~ką
-LIT/2757.wav|kur~ mus ve~ža esą~
+LIT/2757.wav|kur~ mus ve~ža esą~?
 LIT/2758.wav|kad ši`s sa^ndoris atkakliai~ sle~piamas
 LIT/2759.wav|laikinai~ pe^rleido sa`vo bro^liui Rau~liui Ca~stro
 LIT/2760.wav|išgrę~žiamos sky~lės po~liams ir jie~ įkalami`
@@ -2517,7 +2517,7 @@ LIT/2766.wav|kai~p pa~tys siu`vo tautine`s vė~liavas
 LIT/2767.wav|tam~siai ža~lias odi`nis li^etpaltis
 LIT/2768.wav|Rusvu`s tvi`rtus pla^ukus tu`ri sti`prūs
 LIT/2769.wav|kad nevyriausy^binis se`ktorius vei~kia skai~driai
-LIT/2770.wav|o ga^l ne`t pu`ltų prieš jį~ ant ke~lių
+LIT/2770.wav|o ga^l ne`t pu`ltų prieš jį~ ant ke~lių?
 LIT/2771.wav|nesuža~dinę no^ro vei~kti ku`rti
 LIT/2772.wav|Juoba` šven~tės dva~sios kūrimu` bū^tų užsiė~mę tie~
 LIT/2773.wav|tačiau~ vis vi^ena neran~dame jokių~ tuale`tų ar kitų~ patogu`mų poilsia^utojui
@@ -2598,10 +2598,10 @@ LIT/2847.wav|Šakinin~kuose gami`na žolė~s mi`ltus
 LIT/2848.wav|Pasak la^išką pasira~šiusių kaimy^nų
 LIT/2849.wav|negrąži`name dota~cijų valsty^bės biudže`tui ga^l nurašy~s
 LIT/2850.wav|Paukščiu`s pu^olantys gri`po vi`rusai dau~geliu a~tvejų repliku^ojasi žarny^no ląste~lėse
-LIT/2851.wav|kai~p bu`s su jų~ naudo^jama asmeni`nio ū^kio žeme`
+LIT/2851.wav|kai~p bu`s su jų~ naudo^jama asmeni`nio ū^kio žeme`?
 LIT/2852.wav|pi`la liaupse`s įvairi^ems renginia^ms vi^en todė~l
-LIT/2853.wav|A`k tu` ma`no to`ne len~gvo feljeto`no to`ne
-LIT/2854.wav|Ka`s ga~li važiu^oti į to^kią Pa~langą
+LIT/2853.wav|A`k tu` ma`no to`ne len~gvo feljeto`no to`ne2
+LIT/2854.wav|Ka`s ga~li važiu^oti į to^kią Pa~langą?
 LIT/2855.wav|kurio~s tu`ri terito`rinių ypatu`mų
 LIT/2856.wav|A~ Ku`lpa Kulpa~vičius tiesio^g atgy~ja
 LIT/2857.wav|Mir~tinas smū~gis mergi`ną nu`bloškė į ša~lį
@@ -2616,8 +2616,8 @@ LIT/2865.wav|Nume`siu ta^u nusmur~gęs vienuoliū^kšti
 LIT/2866.wav|Nedažy^tų lentų~ kar~stą užvo^žtą lo^vį
 LIT/2867.wav|bū~na pakili`mų ir nu^osmukių
 LIT/2868.wav|nes po restaura~vimo jų~ bute` bu`vo numaty^ta įren~gti ali`nę
-LIT/2869.wav|kur vaikai~ ke~pė pur~vo bandele`s
-LIT/2870.wav|Saky^k arba nebesivadi`nsi vy^ru
+LIT/2869.wav|kur vaikai~ ke~pė pur~vo bandele`s?
+LIT/2870.wav|Saky^k arba nebesivadi`nsi vy^ru2
 LIT/2871.wav|raudo^nos koktei~lio tau~rės
 LIT/2872.wav|Išmo^kite mel~sti vanden~s srovių~
 LIT/2873.wav|todė~l antro~sios Kau~no koma^ndos
@@ -2663,7 +2663,7 @@ LIT/2912.wav|gulė^jo Vi`lniuje reanima~cijoje
 LIT/2913.wav|kad jo~ vie~tą galė^tų užle^isti ma^n
 LIT/2914.wav|daily^raščiu vingiu^odami pa~žymius
 LIT/2915.wav|U`žsienio te^isės ta^ikymas
-LIT/2916.wav|Ga^l kalti` šla~kai toksi`nai
+LIT/2916.wav|Ga^l kalti` šla~kai toksi`nai?
 LIT/2917.wav|Bet kuria^i naujai~ į~steigtai į^monei bū^tina užsidi`rbti pel~ną
 LIT/2918.wav|kad no^riu sutrum~pinti pa~vardę
 LIT/2919.wav|kad to~ Tauragėje` da^r nėra` bu`vę
@@ -2676,11 +2676,11 @@ LIT/2925.wav|kai mokykla` ga~vo A~ Lipniū^no var~dą
 LIT/2926.wav|Abu` su vy^ru e~same pen~sininkai
 LIT/2927.wav|Abiturien~tai la^ukia egza~minų
 LIT/2928.wav|kad šiuo~ sklypu` turė~s pasirū^pinti seniūnija` atve`žti ju^odžemio
-LIT/2929.wav|tad ma~to tik vi^eną i`šeitį pa~tys bū^kime geresni`
+LIT/2929.wav|tad ma~to tik vi^eną i`šeitį pa~tys bū^kime geresni`2
 LIT/2930.wav|pirmo~siose ma`no darbo^vietėse di`rbau ne viena`
 LIT/2931.wav|Jauni^eji užka^nda vie~tos bly~ninėje
 LIT/2932.wav|Pa`ts V Uspaski`chas pasidomė^jus
-LIT/2933.wav|arba` gyve^nti li`kusį gyve~nimą su pagi^eža
+LIT/2933.wav|arba` gyve^nti li`kusį gyve~nimą su pagi^eža2
 LIT/2934.wav|ske^lbiama Elcomso`ft pranešime` spau~dai
 LIT/2935.wav|Da~riumi Songa^ila ir Linu` Kle^iza
 LIT/2936.wav|Izabe`lė Puti^enė Va~clovas Žuoly~s
@@ -2688,7 +2688,7 @@ LIT/2937.wav|Virš Bitė^nų daugiau~ kaip dvi` va~landas sklan~dė a^ustrų kom
 LIT/2938.wav|savivaldy^bei šiai~s a~tvejais ji` netu`ri
 LIT/2939.wav|Bet yra` tam tikro~s po`zos
 LIT/2940.wav|formu^oja vaikų~ ir jauni`mo iniciatyvu`mą bei kūrybišku`mą
-LIT/2941.wav|Juk je^i nie~kas nebū^tų anksčiau~ kū^ręs
+LIT/2941.wav|Juk je^i nie~kas nebū^tų anksčiau~ kū^ręs2
 LIT/2942.wav|Neringo~s mie~sto geogra~finė padėti`s y^pač savita`
 LIT/2943.wav|kai įsite^isėja juo~s apka^ltinę teismų~ nu^osprendžiai
 LIT/2944.wav|Va~karą ve~dė Vikto`rija Šamato`vič
@@ -2697,7 +2697,7 @@ LIT/2946.wav|A^lfredas jau~tėsi vi`siškai pasikei~tęs
 LIT/2947.wav|ma`t be paprasto~s siuvi`mo maši`nos
 LIT/2948.wav|prie la^ngo prieš o^rą va~sara
 LIT/2949.wav|Dau~g vy^rų lie~ka be žmonų~ ir dau~g mo^terų be vy^rų
-LIT/2950.wav|kai~p šiame` a^mžiaus tar~psnyje tin~kamai a^uklėti ir mo^kyti sa`vo a~tžalas
+LIT/2950.wav|kai~p šiame` a^mžiaus tar~psnyje tin~kamai a^uklėti ir mo^kyti sa`vo a~tžalas?
 LIT/2951.wav|geria^usius įve^rtinimus ga~vo Garliavo~s Juo~zo Lu`kšos
 LIT/2952.wav|nepa^isydamas ve^idą bra^ižančių sudžiū^vusių žolė~s stagarų~
 LIT/2953.wav|sveti`mkūnio po^jūtis akyje`
@@ -2728,7 +2728,7 @@ LIT/2977.wav|ne`t ma`no pinigė~lį norė^jai pačiu`pti ir ja^m nune`šti
 LIT/2978.wav|o čia` arti` nėra` langų~ žaisdami` neišdaužy^sime
 LIT/2979.wav|užsivo^žęs sa`vo patie~s skry^bėlę
 LIT/2980.wav|dra~skomo vidi`nių prieštara~vimų
-LIT/2981.wav|Kodė~l aš girdžiu` kad plaktu`kas mu`ša so^l
+LIT/2981.wav|Kodė~l aš girdžiu` kad plaktu`kas mu`ša so^l?
 LIT/2982.wav|kurie~ apie ju`s žinių~ su`teikė
 LIT/2983.wav|Je^i nebū^sime šimtu` pro`centų susikau~pę ir le^isime varžo~vams įsibėgė^ti
 LIT/2984.wav|sti`priojo gė^rimo gamy^ba pavoji`ngas spo`rtas
@@ -2744,15 +2744,15 @@ LIT/2993.wav|dai~liai į šva~rų vaški`nį po~pierių suvynio^tus
 LIT/2994.wav|Genova^itei bu`vo vo~s penkeri`
 LIT/2995.wav|To~s su`mos juk nie~kur nedin~go
 LIT/2996.wav|Ju`m la^isvė yra` atimta` ilga^m lai~kui
-LIT/2997.wav|kur~ tu pasislė~psi kai ei~siu pro ša~lį
+LIT/2997.wav|kur~ tu pasislė~psi kai ei~siu pro ša~lį?
 LIT/2998.wav|kai ta^ikytina te^isė pasirinkta` sa^ndorio šalių~ susitarimu`
 LIT/2999.wav|nuo kurių~ penkių~ šimtų~ km spin~duliu nie~kas negyve~na
 LIT/3000.wav|Lietuvo~s di`dmiesčiuose vė~l pa`dvelkė švente`
 LIT/3001.wav|gana` platu`s nuo keturių~ iki` penkio^likos me~tų
 LIT/3002.wav|Dvi` a^lfa vi`lkės nusku^odė gatve`
 LIT/3003.wav|kurio~s aprė^pia kultū~ros mo^kslo
-LIT/3004.wav|o kai~p čia bu`vo kad tu` gyva` likai~
-LIT/3005.wav|kai~p a`š galė^čiau bū^ti pavoji`ngas
+LIT/3004.wav|o kai~p čia bu`vo kad tu` gyva` likai~?
+LIT/3005.wav|kai~p a`š galė^čiau bū^ti pavoji`ngas?
 LIT/3006.wav|NS keturi` A~ yra` NS try~s kofa~ktorius
 LIT/3007.wav|graže`snį gere`snį funkcionale`snį
 LIT/3008.wav|pribre`žnoje pamarių~ kultū~ros gyve^nvietė
@@ -2767,7 +2767,7 @@ LIT/3016.wav|vi`s dar jau~čiamas bu`tų sty~gius
 LIT/3017.wav|kaip kažkada` Do`no kazo~kai ca~rui
 LIT/3018.wav|Bet Deni`sas ir jo~ sesuo~ Ole`sė šią va~sarą nuspre^ndė
 LIT/3019.wav|E~ Tamaša^uskas a`tkreipė dė~mesį
-LIT/3020.wav|kai~p gy^dyti tau~tą nuo alkoholi`zmo
+LIT/3020.wav|kai~p gy^dyti tau~tą nuo alkoholi`zmo?
 LIT/3021.wav|atgaiva` triū~siant sode` gryba^ujant
 LIT/3022.wav|patogiai~ įsitai~sę pintuose` krėsluose`
 LIT/3023.wav|sumušti`nį rupi` du^ona su virto~s mėso~s ar žuvie~s gabalėliu`
@@ -2783,7 +2783,7 @@ LIT/3032.wav|gul~bės nebylė~s kiauši`nis
 LIT/3033.wav|skiriama` šia^i sri`čiai nemažė~s
 LIT/3034.wav|Bu`vo pa`kviestas bū^tent ji`s
 LIT/3035.wav|kad negalė^čiau įtar~ti e~sant du` indu`s
-LIT/3036.wav|Pasiste^nk padė^ti ja^i suvo^kti realy^bę
+LIT/3036.wav|Pasiste^nk padė^ti ja^i suvo^kti realy^bę2
 LIT/3037.wav|kurio^ms drabužiu`s ku`ria Vita~lijus Autu`kas
 LIT/3038.wav|Kiti` vai~smedžiai išdžiū^vo
 LIT/3039.wav|Todė~l bū^tina pasa`k B Marka^usko
@@ -2808,7 +2808,7 @@ LIT/3057.wav|sura~dome stripti`zo šokė^ją Vi`dą
 LIT/3058.wav|kurių~ abėcė~lės suku`rtos loty~niškosios pa~grindu
 LIT/3059.wav|Šiame` stra^ipsnyje į J W Gė~tės Fa^ustą žvel~giama per kri`tišką pri`zmę
 LIT/3060.wav|Vi^enas jo~ ga~las ky^šo paežerėje`
-LIT/3061.wav|Geriau~ bet ko^ks negu` jo^kio
+LIT/3061.wav|Geriau~ bet ko^ks negu` jo^kio2
 LIT/3062.wav|Je^i žmogu`s lin~kęs į depre`siją
 LIT/3063.wav|kai~ vi`si pašo^kę šau~kdavo Šlovė~ KPSS
 LIT/3064.wav|Augusta~vo lygumo~s mezoregione`
@@ -2821,7 +2821,7 @@ LIT/3070.wav|Su`rengė eili`nį žy~dų pogro`mą ir ti^ek
 LIT/3071.wav|polo`nis ne pir~štų atspaudai~
 LIT/3072.wav|kad netu`rime MTP nere^iškia
 LIT/3073.wav|mu`s si^eja sena` draugy~stė
-LIT/3074.wav|ko^kį sprendi`mą priim~s STT
+LIT/3074.wav|ko^kį sprendi`mą priim~s STT?
 LIT/3075.wav|Šiuo~s tapetu`s ga~lima valy^ti tik drė^gnu skudurėliu`
 LIT/3076.wav|dri`skiai ir su`skiai ir da^r kito^ki
 LIT/3077.wav|Mo~rkaus bazi`lika ir Do`žų rū^mai
@@ -2833,12 +2833,12 @@ LIT/3082.wav|apsilan~kymo tirtose` seniūni`jose dažnu`mas ro^do
 LIT/3083.wav|Būtino~sios gintie~s ribų~ pe^ržengimu nelai~koma dėl di`delio sumiši`mo ar i`šgąsčio
 LIT/3084.wav|Byla` nepradėta` nagrinė^ti ir šį~kart
 LIT/3085.wav|jo~ nu^osavas vampy~ras Salje`ris
-LIT/3086.wav|o Liūtaširdžiu` jį~ pra`minė žinai~ už ką~
-LIT/3087.wav|Ko~ čia užu^ojautą siū^lai
+LIT/3086.wav|o Liūtaširdžiu` jį~ pra`minė žinai~ už ką~?
+LIT/3087.wav|Ko~ čia užu^ojautą siū^lai?
 LIT/3088.wav|Kartu` su juo~ pale^istas ir dvi`dešimt dvejų~ me~tų R M
 LIT/3089.wav|nupjo^vusieji vamzdžiu`s padary^tų sa^u meško~s pa~slaugą li`ktų be du`jų
 LIT/3090.wav|apie Ro`džerį Gilmo`rą ir Ski`ną
-LIT/3091.wav|Ga^l tiesio^g trumpa^m išei~ti parūky^ti
+LIT/3091.wav|Ga^l tiesio^g trumpa^m išei~ti parūky^ti?
 LIT/3092.wav|Dabar~ iš tu`ščio į kia^urą pi`lstau a`š
 LIT/3093.wav|Šiai~p Lė~manas nie~ko sa^u žmogu`s
 LIT/3094.wav|Normaty^viniai meto`dai yra` šie~
@@ -2859,7 +2859,7 @@ LIT/3108.wav|būry~s vo^kiškų SS vy^rų ir keli` šimtai~ nuska~rusių dryžu^
 LIT/3109.wav|Jo~ pa~likuonys ge^lbėdamiesi nuo ba~do
 LIT/3110.wav|pasi^ekėme Romė^nų fo`rumą Kolizie~jų
 LIT/3111.wav|Motie~jaus Valan~čiaus į^vaizdis poe`tinėje tradi`cijoje
-LIT/3112.wav|Nejau~gi sme~genis tai~p len~gva apga^uti
+LIT/3112.wav|Nejau~gi sme~genis tai~p len~gva apga^uti?
 LIT/3113.wav|padė^jęs žvynu^otą ga^lvą ant mi`ltų mai~šo
 LIT/3114.wav|Je^i ma`no giesmė~ tokia pa`t
 LIT/3115.wav|kad J Slančia^uskas krei~pėsi į ele`ktrikus
@@ -2869,7 +2869,7 @@ LIT/3118.wav|kurio~s yra` žemiau~ jū^ros ly~gio
 LIT/3119.wav|jau susila^ukė pelny^to a~tpildo
 LIT/3120.wav|Marlo^u Be`nui Džo`nsonui Bra^unui
 LIT/3121.wav|dvel~kia šilto~s du^onos bande~lių su marcipa~nais
-LIT/3122.wav|Ka`s su`teikė ju`ms aristokra~tų var~dą
+LIT/3122.wav|Ka`s su`teikė ju`ms aristokra~tų var~dą?
 LIT/3123.wav|Jam rie~čia no^sį kvepalų~ smo`gas
 LIT/3124.wav|daržo^ves sodu`s iki de~šimt ha~
 LIT/3125.wav|todė~l vieni^ems labiau~ tin~ka vieno^kia
@@ -2892,7 +2892,7 @@ LIT/3141.wav|kad tarpu`savyje derė~s audiniai~
 LIT/3142.wav|ga~tvės apšvieti`mas šali`gatviai
 LIT/3143.wav|kad mo^ku skam~binti fortepijonu`
 LIT/3144.wav|išne~šę le^isgyvį į bara~ko vi`durį
-LIT/3145.wav|ka`s užve`š an~tausį u`žpakaliui
+LIT/3145.wav|ka`s užve`š an~tausį u`žpakaliui?
 LIT/3146.wav|Taujė^nų seniū~nė Elvyra` Tuluši^enė
 LIT/3147.wav|tarptauti`nės su`tartys
 LIT/3148.wav|Vi^en San Di^ego apy^gardoje žala` vir~šijo milija^rdą do^lerių
@@ -2900,7 +2900,7 @@ LIT/3149.wav|Iš Sti`klių restora~no išbė^go du`rininkas
 LIT/3150.wav|nes nuo gyve^nviečių jie~ lai~kosi ato^kiai
 LIT/3151.wav|Li^etuvai įsto^jus į Euro`pos Są^jungą
 LIT/3152.wav|užgesi`nus gai~srą V L name`
-LIT/3153.wav|ar populiari` viešo^ji erdvė~
+LIT/3153.wav|ar populiari` viešo^ji erdvė~?
 LIT/3154.wav|Nors ji`s dabar~ nugreideriu^otas
 LIT/3155.wav|Tė^vai mo^tin ar no^rit turė^ti a^itvarą
 LIT/3156.wav|iš jų~ šaukti`nių penkiai~s šimtai~s
@@ -2931,7 +2931,7 @@ LIT/3180.wav|subtiliu`s gra~finės raiško~s niua^nsus
 LIT/3181.wav|kad vai~kas greičia^usiai ne jo~
 LIT/3182.wav|yra` pernely^g di`delis fi`zinis krū~vis
 LIT/3183.wav|Ker~što insti`nktas apa~kina tą~
-LIT/3184.wav|ar iš ši`tokios veiklo~s ga~lima pragyve^nti
+LIT/3184.wav|ar iš ši`tokios veiklo~s ga~lima pragyve^nti?
 LIT/3185.wav|ma`t ji` ji^ems pažadė^jo bevi`zį reži`mą su JA^V
 LIT/3186.wav|Savava~liškas že~mės mi`ško
 LIT/3187.wav|pano~rusios įvaldy^ti šią~ te`chniką
@@ -2947,7 +2947,7 @@ LIT/3196.wav|o ja^m tal~kins Stasy~s Žaliabar~štis
 LIT/3197.wav|kad la~bdarą rin~ktų kartu` su vaikai~s
 LIT/3198.wav|kuome`t dau~g arklių~ nu`neša daugiau~ grūdų~ maišų~ negu vi^enas arkly~s
 LIT/3199.wav|kad a`š jo~ paskuti`nis ša^nsas
-LIT/3200.wav|kodė~l rajo`no me`ras išva~romas iš ro~jaus
+LIT/3200.wav|kodė~l rajo`no me`ras išva~romas iš ro~jaus?
 LIT/3201.wav|nes da^r vėliau~ gi`mę jau išnešio^ti dvyniai~ tra~giškai žu`vo
 LIT/3202.wav|su`kdamas apie~ mane` ratu`s
 LIT/3203.wav|atėjai~ be nie~ko lazda` per šo^nus
@@ -2990,7 +2990,7 @@ LIT/3239.wav|ji` diena`s le^idžia nuolati`nių sugėro~vų apsuptyje`
 LIT/3240.wav|Kambaryje` įsi`kuria po vi^eną ar du` studentu`s
 LIT/3241.wav|kur~ tik įvažia~vus nuo garsų~ galva` paskau~sta
 LIT/3242.wav|A`š ištry^niau jo~ kompiu`terio ki^etąjį di`ską
-LIT/3243.wav|ka`s čia` tai ne kū^nas tatai~ netu`ri ga~lo
+LIT/3243.wav|ka`s čia` tai ne kū^nas tatai~ netu`ri ga~lo?
 LIT/3244.wav|bendru^osius ir va~do įsa~kymų bla^nkus
 LIT/3245.wav|Palo^menėje Žilinuose` Kieta~viškėse
 LIT/3246.wav|bet pama~čius kad ta^m lė^šų neužte`ks
@@ -3001,14 +3001,14 @@ LIT/3250.wav|o Ame`rikoje y^pač Brodvė^juje
 LIT/3251.wav|susi^etus su seną^ja nomenklatūra`
 LIT/3252.wav|Je^igu šian~dien autobu`sų pa^rkui
 LIT/3253.wav|je^i tik vi`skas bu`s gerai~
-LIT/3254.wav|Kodė~l vi`s lyg ta^m studen~tui pritrū^ksta vieno~s naktie~s
+LIT/3254.wav|Kodė~l vi`s lyg ta^m studen~tui pritrū^ksta vieno~s naktie~s?
 LIT/3255.wav|Iš tiesų~ mū^sų maži^esiems rei~kia socia~linių sa^ntykių
 LIT/3256.wav|Je^i pasise`ktų iš tiekė^jų nusiderė^ti nu^olaidų
 LIT/3257.wav|Da^r mo^kytoja pri`duria kad da^rbas nėra` šven~tė
 LIT/3258.wav|į pirmą^sias varžy^bas atė~jo vo~s try~s ji`s pa`ts
-LIT/3259.wav|Ei~ jū~s visų~ kalių~ vaikai~
+LIT/3259.wav|Ei~ jū~s visų~ kalių~ vaikai~2
 LIT/3260.wav|padė^jęs ant ba~tų dėžė~s ža~liąjį akmenu`ką
-LIT/3261.wav|kai~p varto^tojai ga~li grąži`nti pakuote`s ar pakuo~čių a~tliekas
+LIT/3261.wav|kai~p varto^tojai ga~li grąži`nti pakuote`s ar pakuo~čių a~tliekas?
 LIT/3262.wav|Ri`mvydas Kriščioka^itis u`žjūryje ta~po Ra^ymond Kri`sst
 LIT/3263.wav|o Lam~pėdžių ti`ltu Raudo^ndvario ple^ntu
 LIT/3264.wav|ne`t neį~tarė jog ga~li bū^ti skoli`nga
@@ -3020,13 +3020,13 @@ LIT/3269.wav|kad medicina` kry~psta vi^en į farmakolo`gijos pu`sę
 LIT/3270.wav|bema`t su`sekė ir nu`baudė žudiku`s
 LIT/3271.wav|breso`niškas le~miamas momen~tas
 LIT/3272.wav|o už ge~gužę tik li^epos viduryje`
-LIT/3273.wav|Ką~ tu` dary^si su kūriniai~s
+LIT/3273.wav|Ką~ tu` dary^si su kūriniai~s?
 LIT/3274.wav|Be gy^dytojo jokių~ antibio`tikų
 LIT/3275.wav|Egi`dijus Rim~kus Ju`stas Kažy~s
 LIT/3276.wav|gerbiami^ems ir visai~s laikai~s reikali`ngiems
 LIT/3277.wav|Me`dikų a~pžiūrai taip pa`t bu`vo nuvežti` ir keli` iš sulaiky^tų jaunuo~lių
 LIT/3278.wav|Kole`gų ve~žamas į ligo^ninę vy^ras jau ir pa`ts numa~tė
-LIT/3279.wav|Ko^ks gi ga~li bū^ti gladia~torius dre~bančiom ki`nkom
+LIT/3279.wav|Ko^ks gi ga~li bū^ti gladia~torius dre~bančiom ki`nkom?
 LIT/3280.wav|jog minė^ta vaizda~juostė jį~ sutri`kdė
 LIT/3281.wav|To~ pra~keiksmą sa`vo ka^iliu kuo~ puikia^usiai jau~čiame
 LIT/3282.wav|So^stinės me`ras Juo~zas I`mbrasas tą~syk pare^iškė
@@ -3052,7 +3052,7 @@ LIT/3301.wav|Kad ji nuo~lat nešau~ktų ant manę~s
 LIT/3302.wav|kurie~ iškovo^jo po tri`s mandatu`s
 LIT/3303.wav|virė^jas kondi`teris kulina~ras
 LIT/3304.wav|kad trū^ksta valy^tojų ir je^i bendrija` tu`ri kandida~tę
-LIT/3305.wav|ko^kios čia` yra` vaista~žolės ir nuo ko~ jo~s
+LIT/3305.wav|ko^kios čia` yra` vaista~žolės ir nuo ko~ jo~s?
 LIT/3306.wav|Kol ka`s rasta` viena` paleista` raketa`
 LIT/3307.wav|pabuvo^jusios Flodene` ir Aženkūre`
 LIT/3308.wav|Tačiau~ dabar~ labiau~ ste^ngiamasi įti`kti ver~slininkams
@@ -3076,7 +3076,7 @@ LIT/3325.wav|Pa~vyzdžiui Vie~špats ma`no gany^tojas
 LIT/3326.wav|A^rkties loky~s tai vi`s ta pati` balta`
 LIT/3327.wav|Tik e~glėms ruduo~ nė mo~tais žaliu^oja
 LIT/3328.wav|To^kio havajie~tiško ti`po isto`rija
-LIT/3329.wav|ar galė^tų įvar~dyti u`žsienio kal~bą
+LIT/3329.wav|ar galė^tų įvar~dyti u`žsienio kal~bą?
 LIT/3330.wav|ir širdi`s neramiau~ ė~mė pla`kti
 LIT/3331.wav|Biblioteka` iš leidy~klų ga^una du` priva~lomus egzemplioriu`s
 LIT/3332.wav|praleisto^ms netoli` Le~dakalnio
@@ -3096,16 +3096,16 @@ LIT/3345.wav|nakvo^ti yra` kur~ atsinau~jinęs Ro~kiškio vie~šbutis
 LIT/3346.wav|darže~lio rū~tos žolė~s bei šalavi`jo la~pų
 LIT/3347.wav|parke`tą buitie~s te`chniką
 LIT/3348.wav|Su` J Micha^ilovu R Vaina^usku
-LIT/3349.wav|ar yra` įdomu`s Lietuvo~s žiūro~vui
-LIT/3350.wav|ką~ lai~kome teisi`nga ir kal~tę dary^dami tai
+LIT/3349.wav|ar yra` įdomu`s Lietuvo~s žiūro~vui?
+LIT/3350.wav|ką~ lai~kome teisi`nga ir kal~tę dary^dami tai?
 LIT/3351.wav|S Milo`ševičiui paban~džius jėga` nuslopi`nti jų~ sukili`mą
 LIT/3352.wav|žy~miai pavojingesni` negu seni^eji jaku`dzos
 LIT/3353.wav|Apie ligo~s pro^trūkį ir pacien~čių įtarimu`s
 LIT/3354.wav|pra`deda dairy^tis šalia` e~sančio stiprau~s vy^ro
 LIT/3355.wav|Oficiali` tvarka` griežta` ir aiški`
-LIT/3356.wav|kai~p ši`tiek lai~ko ją~ kanki`nusi neapčiuopiama` ba^imė staiga` paky~la
+LIT/3356.wav|kai~p ši`tiek lai~ko ją~ kanki`nusi neapčiuopiama` ba^imė staiga` paky~la?
 LIT/3357.wav|dėl kurių~ to^kį ke~lią te~ko suka^rti
-LIT/3358.wav|Kai~p tu miegi` kai~p į duo~bę įkri`tęs
+LIT/3358.wav|Kai~p tu miegi` kai~p į duo~bę įkri`tęs?
 LIT/3359.wav|išsi`plečia ir susta~bdo krauja~vimą
 LIT/3360.wav|įve^rtinant konkrečio~s VĖ E~ vieto^vės para~metrus
 LIT/3361.wav|todė~l ir žinių~ apie vargonu`s joje` li`kę labai~ nedau~g
@@ -3127,7 +3127,7 @@ LIT/3376.wav|motyva~ciją bei tei~kiant ji^ems visokerio^pą pa~ramą
 LIT/3377.wav|gimi`mo vieta` ra~šoma pilnai~
 LIT/3378.wav|kad atbė^gama jo~ vy^ti spru`ko iš javų~ lau~ko
 LIT/3379.wav|Dažnia^usiai lęšiu`kas drumstė^ja pamažu`
-LIT/3380.wav|se^mk iš biudže`to kaip iš mai~šo ir du^ok
+LIT/3380.wav|se^mk iš biudže`to kaip iš mai~šo ir du^ok2
 LIT/3381.wav|visada` gero~s nu^otaikos žmogu`s
 LIT/3382.wav|kuriai~s ji`s nu`teka toly~n
 LIT/3383.wav|Prieš po^rą me~tų nuo smegenų~ au~glio mi`rė ma`no drau~gas
@@ -3135,7 +3135,7 @@ LIT/3384.wav|Ne a`š viena` tai~p galvo^ju
 LIT/3385.wav|užu^ot padė^ję į lia^udies ū^kį
 LIT/3386.wav|Drako`nas ki^ek pra`šiepė nasru`s ir pa`lenkė ga^lvą
 LIT/3387.wav|o kad išvažiavau~ labai~ džiaugiu^osi
-LIT/3388.wav|Kai~p gi čia` neįžvel~gsi liki`mo ran~kos
+LIT/3388.wav|Kai~p gi čia` neįžvel~gsi liki`mo ran~kos?
 LIT/3389.wav|dė~vinčią poli`cininkės unifo`rmą
 LIT/3390.wav|bu`vusios hospitaliza~vus ligo^nį
 LIT/3391.wav|jog bandy^siu ieško^ti rimte`snio ry~šio
@@ -3160,7 +3160,7 @@ LIT/3409.wav|A~šarodavo klausy^damasi Ba~cho
 LIT/3410.wav|su kiekvi^ena diena` tirpte` tirpau~
 LIT/3411.wav|nykštu`kų bei keistų~ padarė~lių
 LIT/3412.wav|Jo~s atite~ko Serge`jui Ka~šinui
-LIT/3413.wav|Ar ver~ta dėl to~ la^užyti i^etis
+LIT/3413.wav|Ar ver~ta dėl to~ la^užyti i^etis?
 LIT/3414.wav|Du` tokie~ nedidu`kai a~kys į~strižos
 LIT/3415.wav|Kurią~ nors die~ną šū^ktelėsiu ja^m
 LIT/3416.wav|ka`d Cha~ P Nei~las sula^ukdavo dau~g mergi`nų dė~mesio
@@ -3222,11 +3222,11 @@ LIT/3471.wav|Ekspedi`cijoje dalyva~vo archeolo`gai
 LIT/3472.wav|ir B Canta~t iš pradžių~ kalė^jo Lietuvoje`
 LIT/3473.wav|nuste~bęs ki`lsteli an~takius
 LIT/3474.wav|Dėl skaudžio~s Jė^zaus kančio~s
-LIT/3475.wav|ką~ ti`kisi po eglute` ra`sti vy^rai
+LIT/3475.wav|ką~ ti`kisi po eglute` ra`sti vy^rai?
 LIT/3476.wav|gali` toje` hiera^rchijoje atsidu`rti žemiau~ už tą~ gyvū~ną
 LIT/3477.wav|šie~ darbai~ kainu^oja didžiuliu`s pi`nigus
 LIT/3478.wav|mo^kymui kultū~rinei švietė^jiškai vei~klai
-LIT/3479.wav|Ga^l vertė^tų ne va^istų nuo migre`nos grie~btis
+LIT/3479.wav|Ga^l vertė^tų ne va^istų nuo migre`nos grie~btis?
 LIT/3480.wav|Po kiekvi^eno bada~vimo rei~kia va^lgyti vaisiu`s
 LIT/3481.wav|ve^idas įknia^ubtas į paga^lvę per miegu`s ri`ksmas
 LIT/3482.wav|Mi`ško gaisrai~ didžiu`lę ža~lą pada~rė ir Bulga~rijoje
@@ -3262,7 +3262,7 @@ LIT/3511.wav|Amerikie~čiai pa^rke ra~do plo^tą
 LIT/3512.wav|Puikių~ ir brangių~ kėdžių~ atlošai~ nedi`delio ū~gio žiūro~vams užsto~s sce`ną
 LIT/3513.wav|kai kurio~s te`mos da^r grupu^ojamos ža^nriniu pri`ncipu
 LIT/3514.wav|Žiu`rkės mė^gsta judė^ti o y^pač šo^kti
-LIT/3515.wav|ką~ apie juo~s pasa~kė R Taraške~vičius
+LIT/3515.wav|ką~ apie juo~s pasa~kė R Taraške~vičius?
 LIT/3516.wav|kad lai~kas be erdvė~s neegzistu^oja
 LIT/3517.wav|Tačiau~ liberalcentri`stas Al~gis Ča~plikas
 LIT/3518.wav|po interviu` laido~s vedė^jas Robe`rto A^rce a`tskleidė
@@ -3298,10 +3298,10 @@ LIT/3547.wav|Triša~lės tary^bos fu`nkcijas
 LIT/3548.wav|kad to^ks nutari`mas jokio~s naudo~s neduo~s
 LIT/3549.wav|tu`ri į^takos u`pių nu^otėkio dy~džiui ir reži`mui
 LIT/3550.wav|grumstu`s ir švilpdami` mė^tydavo į vangia`s
-LIT/3551.wav|kada` į dieno~s švie~są ištra^uktos
+LIT/3551.wav|kada` į dieno~s švie~są ištra^uktos?
 LIT/3552.wav|tad stei~gti da^r vi^eną to^kią bū^tų absu`rdiška
 LIT/3553.wav|si^ekiančioms paramo~s pagal E Ž Ū FKP pri^emones
-LIT/3554.wav|Aš ja`s pažį^stu ir jo~s se~ka pa~skui mane`
+LIT/3554.wav|Aš ja`s pažį^stu ir jo~s se~ka pa~skui mane`?
 LIT/3555.wav|hemagliutini`no ir neuraminida~zės antige`ninės savy^bės
 LIT/3556.wav|ta`d E~ E`S ša~lys turė^tų atli`kti ben~drą grėsmių~ ana~lizę
 LIT/3557.wav|ke`pdavo labai~ skaniu`s to`rtus
@@ -3314,7 +3314,7 @@ LIT/3563.wav|Daubose` ir sker~svėjuose klu`mpabalų žo~lės
 LIT/3564.wav|JA^V karų~ Irake` ir Afganistane` ka^ina
 LIT/3565.wav|Antri` me~tai lumpėni`škis Pagė^gių sa`v
 LIT/3566.wav|šie~ pri`ncipai bema`ž toly^giai pa`veikė ti^ek visu^omenės
-LIT/3567.wav|o ką~ dary^ti ekolo`giniame ū^kyje
+LIT/3567.wav|o ką~ dary^ti ekolo`giniame ū^kyje?
 LIT/3568.wav|Jū~s mu`s še~šerius metu`s val~dėte
 LIT/3569.wav|Nu^ostatus tvi`rtina Vyriausy^bės įgalio^ta institu`cija
 LIT/3570.wav|kad Die~vas per tva~ną sunaiki`no pasa^ulį
@@ -3322,7 +3322,7 @@ LIT/3571.wav|A`š ne`t su mažia^usiu varpeliu` knebinė^juosi
 LIT/3572.wav|Ti`ks ir aly~vinė ir any^žių spalva`
 LIT/3573.wav|ti^ek apie bet kurių~ kitų~ isto`rijas
 LIT/3574.wav|ta`s mo^teriškos lytie~s ki`borgas
-LIT/3575.wav|Ko~ tu tai~p begė^diškai žiūri`
+LIT/3575.wav|Ko~ tu tai~p begė^diškai žiūri`?
 LIT/3576.wav|pajamų~ ir sa^ntaupų todė~l
 LIT/3577.wav|advoka~tą ka^ltino J Guda^uskas
 LIT/3578.wav|dabar~ ji`s re^ikštų ne melancho`liką
@@ -3355,7 +3355,7 @@ LIT/3604.wav|kad grei~tkelyje žu`vo ir šiaulie~tė
 LIT/3605.wav|kad seno^ji me^ilė iki ga~lo nenumi`ršta niekada`
 LIT/3606.wav|jog pasiu`tiškai tro^kšta mo^rfijaus
 LIT/3607.wav|V Stanislova^itienės informa~cija
-LIT/3608.wav|ar a`š teisi`ngai galvo^ju apie šį~ ka^ilį
+LIT/3608.wav|ar a`š teisi`ngai galvo^ju apie šį~ ka^ilį?
 LIT/3609.wav|skiauterė~ barzde~lė paausiai~ išbly~škę
 LIT/3610.wav|bet šį~ sezo`ną i`švykose me~s rungtynia^ujame dau~g geriau~ negu namie~
 LIT/3611.wav|Sa~lly Pru`dhomme iš in~dų Rigve`dos hi`mnų
@@ -3404,7 +3404,7 @@ LIT/3653.wav|iš Sudotė~lio e~žero te`ktų išsiur~bti šimtu`s tū^kstančių
 LIT/3654.wav|kaip eSeSeRe`S te^isių pe^rėmėja
 LIT/3655.wav|Pabaigoje` ežiu`kas pada~ro i`švadą
 LIT/3656.wav|kai pa~sakos siuže`tas yra` eilė~ kliū^čių
-LIT/3657.wav|Tik šian~dien neužki^etinkime širdžių~
+LIT/3657.wav|Tik šian~dien neužki^etinkime širdžių~2
 LIT/3658.wav|Krosne~lės ken~kia krau~jui ir imu`ninei siste`mai
 LIT/3659.wav|Didžia^usia parama` proje`ktui nega~li vir~šyti dviejų~ šimtų~ tū^kst EU~R
 LIT/3660.wav|Č Juršė^nas vi`liasi jog šį~
@@ -3422,7 +3422,7 @@ LIT/3671.wav|Tarp pastarų~jų ir Prostamo`l u`no
 LIT/3672.wav|vy^rus žu`do nutuki`mas cu`kraligė
 LIT/3673.wav|Bičiuly~stės skaity^tojų nemažė~s
 LIT/3674.wav|kad ši` į^monė aklai~ pel~no nesi^ekia
-LIT/3675.wav|Ar žinai~ ką~ ga~li Drūkšių~ rū~stis
+LIT/3675.wav|Ar žinai~ ką~ ga~li Drūkšių~ rū~stis?
 LIT/3676.wav|susiruo~šusiems grį~žti į tėvy~nę
 LIT/3677.wav|Rei~cho da^rbo tarny^bos la~geriai
 LIT/3678.wav|šio~s veiko~s pė^dsakus ar nusikal~stamu būdu` įgy^tus da^iktus
@@ -3430,7 +3430,7 @@ LIT/3679.wav|Gimnazi`stams už grąži`ntą ra~dinį komisa~ro padėka`
 LIT/3680.wav|Tei~smas atsi`žvelgė ir į tai~
 LIT/3681.wav|seno~lis mielai~ i`šlenkė puto^jančio vy~no tau~rę
 LIT/3682.wav|suvynio^tos į raudo^nąjį bobu`lės chalatė~lį
-LIT/3683.wav|Ar Jū~s įsivaizdu^ojate mū^sų kra~što ka^imą be įprasti`nių šulinių~
+LIT/3683.wav|Ar Jū~s įsivaizdu^ojate mū^sų kra~što ka^imą be įprasti`nių šulinių~?
 LIT/3684.wav|kai mama` kei~čia negalia` pe^rsisunkusias
 LIT/3685.wav|laivų~ jėgai~nėse privalė^sime de~ginti mažasie~rį ku`rą
 LIT/3686.wav|Dėl minė^tų genero~lo žo~džių
@@ -3441,7 +3441,7 @@ LIT/3690.wav|ir~gi su Valsty^biniu orkestru`
 LIT/3691.wav|ka^ulai ir sąnariai~ tam~pa tra~pūs
 LIT/3692.wav|ji`s bai~gsiąs viešna~gę šį pa`t ry^tą
 LIT/3693.wav|Tada` mažiau~ sužalo^jamos ša~knys
-LIT/3694.wav|ne pagal Ju`rgį kepu`rė supratai~
+LIT/3694.wav|ne pagal Ju`rgį kepu`rė supratai~?
 LIT/3695.wav|o Maskva` a^lkaną įsiu`tusį
 LIT/3696.wav|E~ No^rvaišas konku`rsą laimė^jo
 LIT/3697.wav|Kol ka`s ji` nėra` apsispre^ndusi
@@ -3463,7 +3463,7 @@ LIT/3712.wav|Bet ir neapžiūrė^ję balko`nų ugniagesiai~ ži`no
 LIT/3713.wav|Vis labiau~ pripažį^stant Nico`lės aktoriniu`s gabumu`s
 LIT/3714.wav|sušy~la ir iš jų~ i`ma ski`rtis du`jos anglie~s dvi`deginis
 LIT/3715.wav|Lan~komų vie~tų ir į^spūdžių ti^ek dau~g
-LIT/3716.wav|ar ant jų~ kū^nų nėra` dū~rių pė^dsakų
+LIT/3716.wav|ar ant jų~ kū^nų nėra` dū~rių pė^dsakų?
 LIT/3717.wav|arbore`tumus zoolo`gijos sodu`s
 LIT/3718.wav|sibori` papi`ldo seni`lo te`chnika
 LIT/3719.wav|nes e~žeras kasdie~n dovano^ja ką~ nors nau~ja
@@ -3497,7 +3497,7 @@ LIT/3746.wav|skie~pijami nuo ligų~ sterilizu^ojami
 LIT/3747.wav|kai~ LKF taurė~s turnyre` vy~ks le~miamos ko~vos
 LIT/3748.wav|kurią~ nusta~to Sei~mo statu`tas
 LIT/3749.wav|Ma~rius pa`žvelgė į atbė^gusią prie jo~
-LIT/3750.wav|Ar~gi bet kuri` fo`rma nesiklia^uja išbrau~kymu
+LIT/3750.wav|Ar~gi bet kuri` fo`rma nesiklia^uja išbrau~kymu?
 LIT/3751.wav|plačiai~ išsisklei~dusia ugnine` barzda`
 LIT/3752.wav|Ja` šlu^ostėsi suprakaita~vusį spra^ndą
 LIT/3753.wav|Ji` ilgai~ žiūrė^jo į suanglė^jusių me~džių kami^enus
@@ -3512,7 +3512,7 @@ LIT/3761.wav|ji`s ė~mėsi mane` ir Zi`gmą globo^ti
 LIT/3762.wav|B Obama` pe^rgalę šven~tė per mi`tingą Visko`nsine
 LIT/3763.wav|Simona` išvadi`no jį~ necenzū~riniais žo~džiais
 LIT/3764.wav|per stambi` ji`s ta^m bu`vo figūra`
-LIT/3765.wav|ką~ tuo metu` vei~kia jų~ vy^rai
+LIT/3765.wav|ką~ tuo metu` vei~kia jų~ vy^rai?
 LIT/3766.wav|pasire^iškiantys visame` pilve`
 LIT/3767.wav|Šalie~s viduje` išduoti` sertifika~tai ti^ek ža~liajai
 LIT/3768.wav|lėtai~ nu`plaukė o^ru lin~k ka~po duobė~s
@@ -3528,10 +3528,10 @@ LIT/3777.wav|Nepa^isant visų~ nesklandu`mų ar gre~siančios žalo~s
 LIT/3778.wav|de^lno briauna` smū~gis į ka~klą
 LIT/3779.wav|jog vaiky~stėje krė~sdavo viso^kių a^ibių
 LIT/3780.wav|Jie~ ten~ atsidū^rė po gaudy~nių
-LIT/3781.wav|Tad kai~p suku`rti mėsi`nių galvi`jų ū^kį
+LIT/3781.wav|Tad kai~p suku`rti mėsi`nių galvi`jų ū^kį?
 LIT/3782.wav|yra` ideali` nusikalstamų~ veikų~ sutapti`s
 LIT/3783.wav|naujo~s pirtie~s staty^ba Troškū^nuose per brangi`
-LIT/3784.wav|Ki^ek čia nuostabių~ kvapų~
+LIT/3784.wav|Ki^ek čia nuostabių~ kvapų~2
 LIT/3785.wav|Savivaldy^bių ly^gmeniu tokie~ sa^ndėriai jau seniai~ yra` ta~pę kasdieny^be
 LIT/3786.wav|ma^ngus slyva`s arbūzu`s vyšnia`s
 LIT/3787.wav|tai tu` lau~me esi` di`delė ru`pūžė
@@ -3573,7 +3573,7 @@ LIT/3822.wav|atsaki`ngo už proba~cijos vy^kdymą
 LIT/3823.wav|Je^igu tiesė~ yra` trumpia^usias atstu`mas tarp dviejų~ lemti`ngų ir neišvengiamų~ taškų~
 LIT/3824.wav|braukdama` a~šaras gū^žčiojo pečiai~s R Lukoši^enė
 LIT/3825.wav|Ant vi`so kū^no maty^ti dau~g ryškių~ įkandi`mo žymių~
-LIT/3826.wav|Ka`s tuome`t eksploatuo~s atnau~jintas Dau~geliškių bei Liučiū^nų
+LIT/3826.wav|Ka`s tuome`t eksploatuo~s atnau~jintas Dau~geliškių bei Liučiū^nų?
 LIT/3827.wav|ga^uti pa~jamas už pirmame` pu`nkte nuro^dytų paslaugų~ teiki`mą
 LIT/3828.wav|o ir eilė~s kaip sovie~tmečiu
 LIT/3829.wav|terape`uto reanimatolo`go pa~stangas
@@ -3628,10 +3628,10 @@ LIT/3877.wav|tėra` tik ma^n nutin~kantys daly~kai
 LIT/3878.wav|o mo^tina nepajė~gia pati` jo~ užke^lti
 LIT/3879.wav|Dru`skininkų mylė^tojai mie~sto valdžia`
 LIT/3880.wav|Niujo`rke ir Kata~ro so^stinėje Do`hoje
-LIT/3881.wav|ką~ mo^kytojai mu`ms tei~kė
-LIT/3882.wav|kai~p šalčiu`s pe^rgyvens vieniši`
-LIT/3883.wav|kai~p paminė~s reikšmi`ngą da~tą
-LIT/3884.wav|kla^usiu ka`s pilvan~ spy^rė
+LIT/3881.wav|ką~ mo^kytojai mu`ms tei~kė?
+LIT/3882.wav|kai~p šalčiu`s pe^rgyvens vieniši`?
+LIT/3883.wav|kai~p paminė~s reikšmi`ngą da~tą?
+LIT/3884.wav|kla^usiu ka`s pilvan~ spy^rė?
 LIT/3885.wav|kad Smilte~lė įgi`jo nuosavy^bės te^isę pagal įgy~jamą se~natį į garažu`s
 LIT/3886.wav|Tai me~s grįždami` automobiliu` juoka~vome
 LIT/3887.wav|o derė^tų dažniau~ va^lgyti marmela~do arba zefy~rų
@@ -3650,7 +3650,7 @@ LIT/3899.wav|Ji`s skun~do da^r nėra` išnagrinė^jęs
 LIT/3900.wav|Ir iš befo`rmės minera~lo uoli^enos dievų~ atribu`tai įga^una sa`vo ly~rų ar tri`dančių
 LIT/3901.wav|pake^ltai kvadratu` ir kartu` literatū~rai
 LIT/3902.wav|duomenų~ ar fina^nsinių opera~cijų netikslu`mo
-LIT/3903.wav|ar tei~smas sprendi`mą paskel~bs iki rinki`mų
+LIT/3903.wav|ar tei~smas sprendi`mą paskel~bs iki rinki`mų?
 LIT/3904.wav|nors ką~ tik deklama~vo Bilha~ną
 LIT/3905.wav|kurį~ suda~ro keli` pa~so skai~čiai
 LIT/3906.wav|ji` mo^kosi šio~ cen~tro moky~kloje
@@ -3663,7 +3663,7 @@ LIT/3912.wav|ry^davo viso^kį so^tų ir ri^ebų mai~stą nė nepajusdama` sko~ni
 LIT/3913.wav|slen~ka didžiu`lių beržų~ alė^ja į lauku`s ša^ltus
 LIT/3914.wav|Elektrė^nų ka~pinės a^mžino po^ilsio pri`glaudė Le~oną Valine~vičių
 LIT/3915.wav|Vieni` bū~na labiau~ lin~kę į tiksliu^osius mo^kslus
-LIT/3916.wav|ar už A~ Tupi`ko bu`tą mokė^ti nuro^dytąją su`mą
+LIT/3916.wav|ar už A~ Tupi`ko bu`tą mokė^ti nuro^dytąją su`mą?
 LIT/3917.wav|Me`lburne užtru`kome vo~s die~ną jo~s vi`siškai paka~ko
 LIT/3918.wav|Dėl to~ suaktyvė^ja krau~jo apy^taka
 LIT/3919.wav|A~ Ja~kšto Bė Brazdžio^nio Jo`t Mačiuke~vičiaus
@@ -3682,12 +3682,12 @@ LIT/3931.wav|jog chiru`rgija tam~pa vis mažiau~ pavoji`nga
 LIT/3932.wav|tačiau~ iš mirtie~s ta~ško ji` ne`juda
 LIT/3933.wav|už juo~s mokama` nebloga` ka^ina
 LIT/3934.wav|Mo^teris ver~sdavo juo~s tu`štintis po savimi`
-LIT/3935.wav|iš kur~gi juose` ti^ek nepaa^iškinamo pavy~do
+LIT/3935.wav|iš kur~gi juose` ti^ek nepaa^iškinamo pavy~do?
 LIT/3936.wav|paka`ktų dvi`dešimties labai~ ištikimų~
 LIT/3937.wav|Peru` įvy~ko plačiai~ nuskambė^jusi autobu`so ava~rija
 LIT/3938.wav|kitų~ ži`nomų bei nusipel~niusių visu^omenei žmonių~
 LIT/3939.wav|nežinau~ apie ką~ čia` kal~bama
-LIT/3940.wav|ga^l jo gyve~nime atsira~do kita` mo^teris
+LIT/3940.wav|ga^l jo gyve~nime atsira~do kita` mo^teris?
 LIT/3941.wav|kitų~ įsta~tymų ir poįstatymi`nių a~ktų
 LIT/3942.wav|Juo~zui Vaičiko^niui To`mui Stase~vičiui
 LIT/3943.wav|pasiū^tas iš dailių~ audinių~ skiaute~lių
@@ -3749,7 +3749,7 @@ LIT/3998.wav|nei Bė~ virusi`nio hepati`to kli`nika
 LIT/3999.wav|Čia` greta` teptu`kų ir dažų~ gu`li šū^snys vyte~lių
 LIT/4000.wav|kad socia~linę pa~ramą rei~kia nukrei~pti kuo~ tiksliau~ tokio^ms gyve^ntojų gru`pėms
 LIT/4001.wav|Prara~dę gyve~nimo ma~žmožius
-LIT/4002.wav|Kur~ čia ji`s susi`ruošė vidury~ naktie~s
+LIT/4002.wav|Kur~ čia ji`s susi`ruošė vidury~ naktie~s?
 LIT/4003.wav|pi`ktinosi Riešė~s seniū~nė Ana` Kotvi`cka
 LIT/4004.wav|bet vėliau~ vis vi^en pasi`ėmiau jo~s a~dresą
 LIT/4005.wav|restauru^oti dvaru`s staty^ti vie~šbučius
@@ -3809,7 +3809,7 @@ LIT/4058.wav|penkis` pro`c suda~ro biudže`to lė^šos
 LIT/4059.wav|me~džio drožiniai~ bumera^ngai
 LIT/4060.wav|Jie~ toliau~ dir~bs sa`vo biu`ruose
 LIT/4061.wav|ši`s kla^usimas bu`s apsvarsty^tas da^r ruden~s se`sijoje
-LIT/4062.wav|kai~p tai panaudo^ti visose` gyve~nimo srityse`
+LIT/4062.wav|kai~p tai panaudo^ti visose` gyve~nimo srityse`?
 LIT/4063.wav|Bū^tina nuosekliau~ patyrinė^ti tea~trą
 LIT/4064.wav|e~sant minė^tiems fa~ktams to~ pasi^ekti nebu`s įma~noma
 LIT/4065.wav|me~s tam~pame tik šio~s situa~cijos į^kaitais
@@ -3872,7 +3872,7 @@ LIT/4121.wav|kad plėto^ti mi`šrią gamy^bą sudėtingiau~
 LIT/4122.wav|Ta`s idio`tas ją~ materializa~vo
 LIT/4123.wav|ji`s vi`ską į save` sugė^rė
 LIT/4124.wav|Nela^isvėje li`ko da^r apie du` tū^kst žmonių~
-LIT/4125.wav|ko^kio didi`ngo liki`mo lin~k žengiu`
+LIT/4125.wav|ko^kio didi`ngo liki`mo lin~k žengiu`?
 LIT/4126.wav|į kurį~ skren~dama iš Kau~no
 LIT/4127.wav|susprogdi`no ciste`rnas ir jų~ vie~tose į~rengė skerdy~klą
 LIT/4128.wav|ve`rsijoje Ka~rolio Di`džiojo rauda` lo^voje šalia` lavo^no tę~siasi per keli`s pu`slapius
@@ -3919,12 +3919,12 @@ LIT/4168.wav|jie~ KaGėBė~ dė~mesio sula^ukia todė~l
 LIT/4169.wav|kurio~ vi`są gyve~nimą tro^ško
 LIT/4170.wav|la^idoti kapuose` rūsiuose`
 LIT/4171.wav|Tai pami`slijau jau geriau~ čia` mir~t
-LIT/4172.wav|ar ra~dosi ilgai~ ieško^ta žymė~
+LIT/4172.wav|ar ra~dosi ilgai~ ieško^ta žymė~?
 LIT/4173.wav|klampi`na teisė^jų isto`rija
 LIT/4174.wav|Je^igu se~nis kaliny~s mu`ša naujo~ką
 LIT/4175.wav|išsky^rus spa~zmiškai ty~lintį tė^vą
 LIT/4176.wav|Li`ko tik meta~lo la^užo krūva`
-LIT/4177.wav|Ga^l pakla^usite o ką~ vei~kia opozi`cija
+LIT/4177.wav|Ga^l pakla^usite o ką~ vei~kia opozi`cija?
 LIT/4178.wav|o tada` a`š atsargiai~ tai~p
 LIT/4179.wav|Bet kodė~l me`dikai bu`vo tokie~ abeji`ngi
 LIT/4180.wav|Tokie pa`t reliaty~vūs yra` ir Nauji^eji me~tai
@@ -3933,7 +3933,7 @@ LIT/4182.wav|Čia` galė^jai per sti`klo si^eną maty^ti ir rykliu`s
 LIT/4183.wav|Ro`mo vaiky~stė nie~kuo nesisky^rė nuo bendraam~žių
 LIT/4184.wav|tie~siai iš že~mės try^kštančių Biobli`ngeno šiltų~jų minera~linių šalti`nių
 LIT/4185.wav|Lietuvoje` gami`namos sa~gos iš e^lnio ir bri^edžio ragų~
-LIT/4186.wav|Aš ja^m šaukiu` nebijo^k kvaily~
+LIT/4186.wav|Aš ja^m šaukiu` nebijo^k kvaily~2
 LIT/4187.wav|Sa^ldūs gė^rimai ken~kia danti`ms
 LIT/4188.wav|su nėščia` mo^terimi jo~s vai~siumi
 LIT/4189.wav|kurią~ ištaisy^ti bu`s gana` brangu`
@@ -3988,7 +3988,7 @@ LIT/4237.wav|Taigi Apva^izda tikrai~ globo^ja ti`kinčiuosius
 LIT/4238.wav|bet che`miniu būdu` su`kelia į mie~gą pana~šią bū^seną
 LIT/4239.wav|Pa~komitečio pi`rmininką ren~ka komite`tas
 LIT/4240.wav|dažnai~ vei~kiama be skrupulų~
-LIT/4241.wav|ar jo~ plau~čiai visada` bu`vę tokie~ bai~sūs
+LIT/4241.wav|ar jo~ plau~čiai visada` bu`vę tokie~ bai~sūs?
 LIT/4242.wav|a~tgalia ranka` pastvė~ręs nuo sta~lo va~zą
 LIT/4243.wav|Sto^vi dabar~ vienui~ viena`
 LIT/4244.wav|Jo atsto~vas Michae`las Ella~mas sa~kė
@@ -3997,10 +3997,10 @@ LIT/4246.wav|karnava~lo kepu`rė gyva` beždžionė~lė
 LIT/4247.wav|Žu`vusio rego~s ne`rvo nesugrąži`nsi
 LIT/4248.wav|šio~s i`šlaidos i`lgainiui atsipir~ks
 LIT/4249.wav|tankių~ an~takių ir ryžti`ngo sma~kro
-LIT/4250.wav|storomi`s si^enomis kodė~l žemomi`s
+LIT/4250.wav|storomi`s si^enomis kodė~l žemomi`s?
 LIT/4251.wav|svai~gsta galva` mė^to į abi` puse`s
 LIT/4252.wav|be`t ir fakulte`to jaunėliu`s
-LIT/4253.wav|o kokių~ tik žūklė~s į^rankių netu`ri
+LIT/4253.wav|o kokių~ tik žūklė~s į^rankių netu`ri2
 LIT/4254.wav|jo~s mie~lą veide~lį va^iskias aki`s
 LIT/4255.wav|jo~ globa~linę ir ko`sminę er~dvę
 LIT/4256.wav|Pasiim~k kepu`rę ir dar šį~ bei tą~
@@ -4013,10 +4013,10 @@ LIT/4262.wav|visada` šalia` pasi`dedu įga^rsintą kny~gą ir
 LIT/4263.wav|per oficialiu`s priėmimu`s bei ren~ginius
 LIT/4264.wav|nei abu` anū~kai bitininkyste` nesido~mi
 LIT/4265.wav|De Kvi`nsi a^mžininką Džia~komo Leopa^rdį
-LIT/4266.wav|ko nema~tė per anksčiau~ vy~kusias švente`s
+LIT/4266.wav|ko nema~tė per anksčiau~ vy~kusias švente`s?
 LIT/4267.wav|Nebū^tina pe^rdažyti visų~ namų~ susidoro^kite su vi^ena si^ena
 LIT/4268.wav|Apoline`ro Vienu^olika tū^kstančių lazdų~
-LIT/4269.wav|ar tai vei~kia ante`nų stočių~ spinduliu^otė
+LIT/4269.wav|ar tai vei~kia ante`nų stočių~ spinduliu^otė?
 LIT/4270.wav|Ji` prisi`mena to^kį a~tvejį
 LIT/4271.wav|kaizeri`nės okupa~cijos savi`valę
 LIT/4272.wav|tačiau~ vis ti^ek ver~žėsi į klu`bą
@@ -4025,14 +4025,14 @@ LIT/4274.wav|Bro^lis A~stijus Kungy~s a^iškino
 LIT/4275.wav|kad blogo^ji šo~u pu`sė yra` ta`
 LIT/4276.wav|mė^gsta laiky^tis nuošaliai~ nuo pra^ntų ir džermi`nų
 LIT/4277.wav|Ži`rniai nepaken~čia šviežiu` mė^šlu tręšto~s dir~vos
-LIT/4278.wav|Aš da^r visa^i pipi`ras ma^n ša^lta
+LIT/4278.wav|Aš da^r visa^i pipi`ras ma^n ša^lta2
 LIT/4279.wav|e`L Li čin cha^i sunkio^ji atle`tika
-LIT/4280.wav|Ar jau pramo^kai prancū~ziškai
+LIT/4280.wav|Ar jau pramo^kai prancū~ziškai?
 LIT/4281.wav|A~ Adamki^enę jie~ jau ma~tė
 LIT/4282.wav|Je^igu ma^n kas ketvir~tį bū^tų mokama` trijų~ šimtų~ sva~rų me~tinė pen~sija
 LIT/4283.wav|su kuriai~s ga~lima užrašy^ti visu`s rei~kiamus sim~bolius
 LIT/4284.wav|Tu` ir~gi ma`no me~tų bū^damas tapai~ ha~keriu
-LIT/4285.wav|o je^i dar mergina` įsiknia^ubusi į paga^lvę krū^pčioja
+LIT/4285.wav|o je^i dar mergina` įsiknia^ubusi į paga^lvę krū^pčioja?
 LIT/4286.wav|kad tuo~ metu` miego^siu šalia` sa`vo my^limojo
 LIT/4287.wav|Į tokių~ reikala~vimų są^rašą įei~na šie~
 LIT/4288.wav|Jo~nas Šile^ika įsida^rbino Kelių~ ru^ože
@@ -4062,7 +4062,7 @@ LIT/4311.wav|Ki`tą di`delę gru`pę suda~rė į~gimtos nefropa~tijos
 LIT/4312.wav|impregnu^ojame medi^eną sa~kė E~ Stalmo~kas
 LIT/4313.wav|Kasty^tis bė^go ilgai~s lengvai~s šu^oliais
 LIT/4314.wav|Siū^lymai dėl akci`zų ištie~s labai~ įdo~mūs
-LIT/4315.wav|tik žiūrė^k  kaip jie~ a^uga
+LIT/4315.wav|tik žiūrė^k  kaip jie~ a^uga2
 LIT/4316.wav|nekoky^biškų be vidi`nio tu`rinio daiktų~
 LIT/4317.wav|Il~gisi jo~s didy^bės bangų~ šniokšti`mo
 LIT/4318.wav|Dabar~ radau~ ramy^bę tei~gia A~ Kišū^nas
@@ -4070,7 +4070,7 @@ LIT/4319.wav|Ilgia^usių Ja^m me~tų Vi^ešpaties darbuose`
 LIT/4320.wav|Rin~kai pasiū^lius diferenciju^otus produktu`s
 LIT/4321.wav|Gausia^usiai virione` yra` ma~trikso ba^ltymo
 LIT/4322.wav|V Bagdo~nas tei~gė pada~ręs i`švadą
-LIT/4323.wav|ga^l tu`rite sa`vo favori`tą KĮ~Ž try~s
+LIT/4323.wav|ga^l tu`rite sa`vo favori`tą KĮ~Ž try~s?
 LIT/4324.wav|iški`šusi gelto^nas i`ltis ne`
 LIT/4325.wav|kai išgir~do uždu^odamą nepato~gų kla^usimą
 LIT/4326.wav|o apie pu`sę aštuonių~ ry^to artimi^eji sula^ukė me`dikų skambu`čio
@@ -4111,7 +4111,7 @@ LIT/4360.wav|pavydžiai~ varty^damas fotoalbu`mą
 LIT/4361.wav|apie juo~s ne kar~tą rašy^ta Pa~nevėžio balse`
 LIT/4362.wav|Lu`kas atidžiai~ klau~sėsi paskui~ papu`rtė ga^lvą
 LIT/4363.wav|šypso^damasis sa~kė Ža^lgirio naujo^kas
-LIT/4364.wav|ko~ ver~tos vi`sos bibliote`kos ir me~nai
+LIT/4364.wav|ko~ ver~tos vi`sos bibliote`kos ir me~nai?
 LIT/4365.wav|Konfidencialu`mo įsipareigo^jimams senati`s neta^ikoma
 LIT/4366.wav|o je^i per mažai~ hipotiroidizmu`
 LIT/4367.wav|Ma~tė laimi`ngą išsišie~pusį tė~tį
@@ -4134,7 +4134,7 @@ LIT/4383.wav|Ramiai~ gulė^kite ir nejudė^kite
 LIT/4384.wav|I^eškoma atsa~kymų į kla^usimus
 LIT/4385.wav|sveikatingu`mo ir kitų~ fu`nkcijų svar~bą ta^m skly~pui
 LIT/4386.wav|Kai~p įsi`siautė įsisma^rkavo
-LIT/4387.wav|kai~p jū~s lai~kotės rinki`mų pažadų~
+LIT/4387.wav|kai~p jū~s lai~kotės rinki`mų pažadų~?
 LIT/4388.wav|jo~s akty~vai si^ekia beve^ik penkių~ milijo~nų li`tų
 LIT/4389.wav|tegu` kiti` da~ro tai~ je^i jų~ yra`
 LIT/4390.wav|a`plenktus gėlė^tu po~pieriumi
@@ -4143,9 +4143,9 @@ LIT/4392.wav|Nu^odėmė yra` le^isti gyva^m pa~darui kanki`ntis
 LIT/4393.wav|Ba~to du`slūs smū~giai į du`rų lenta`s
 LIT/4394.wav|i`šlenda iš kažkur~ tasai~ Jo`zefas
 LIT/4395.wav|pirmą^ja JA~V le`di Ne^ncy Rei~gan
-LIT/4396.wav|Ar iš tiesų~ jų~ la^ukia di`delės pe^rmainos
+LIT/4396.wav|Ar iš tiesų~ jų~ la^ukia di`delės pe^rmainos?
 LIT/4397.wav|Roma~novų dina~stiją kita`s asmeny^bes
-LIT/4398.wav|ka`s ži`no ki^ek karų~ da^r bū^tų sukė^lęs ta`s
+LIT/4398.wav|ka`s ži`no ki^ek karų~ da^r bū^tų sukė^lęs ta`s?
 LIT/4399.wav|o penkio^lika da^r yra` li`kę po griuvė~siais
 LIT/4400.wav|kai~p fi`lme no^ri pabrė^žti
 LIT/4401.wav|Kalbė^dami apie tarpu`karį ir da~bartį
@@ -4160,7 +4160,7 @@ LIT/4409.wav|Ji^ems trū^ko štai~ tokių~ spalvų~ ir
 LIT/4410.wav|Skia^učių me~nas a^udinio jungi`mas
 LIT/4411.wav|Sla~vikas Anto`nas DJ To`nny
 LIT/4412.wav|kad tie~ daly~kai subtilesni` už e`terį
-LIT/4413.wav|ką re^iškia ko~pti į to^kio au~kščio ka^lną
+LIT/4413.wav|ką re^iškia ko~pti į to^kio au~kščio ka^lną?
 LIT/4414.wav|Didžia^usius kvotų~ kiekiu`s nupir~ko Šakių~
 LIT/4415.wav|Tai~gi Donela^itis ir dvi`dešimt pi`rmojo a~ žmogu`s ar tai si^etina
 LIT/4416.wav|Pa~nevėžio mie~sto nu^otekų valy~klos rekonstra~vimą
@@ -4175,7 +4175,7 @@ LIT/4424.wav|Dmi`trijaus Šostacho`vičiaus
 LIT/4425.wav|Neryškioje` šviesoje` išryškė^jo negau~sūs rakan~dai
 LIT/4426.wav|Kada^ise vi`sos bū^davome Snieguo~lėmis
 LIT/4427.wav|sužavė^jo soli`stė Sa^ndra Januša^itė
-LIT/4428.wav|Svei~kas Ha~roldai ir~gi atostoga^uji
+LIT/4428.wav|Svei~kas Ha~roldai ir~gi atostoga^uji?
 LIT/4429.wav|Rutuliu`kų sudėtyje` e~santys eteri`niai alie~jai
 LIT/4430.wav|blyškiu` nagu` pastukse^ntų per seniai~ užge~susią
 LIT/4431.wav|speciali`sto ekolo`go V Oržeka^usko teigimu`
@@ -4196,7 +4196,7 @@ LIT/4445.wav|Na gerai~ A^rtas niurgzte` niur~zgė
 LIT/4446.wav|tu`rinti gilia`s šakni`s šia^urėje
 LIT/4447.wav|jo~ tė^vas grį~žo iš u`žjūrių
 LIT/4448.wav|pradžio~s ir pabaigo~s da~tos
-LIT/4449.wav|Ki^ek lai~ko tru`ks mo^kslai u`žsienyje
+LIT/4449.wav|Ki^ek lai~ko tru`ks mo^kslai u`žsienyje?
 LIT/4450.wav|ti^ek di`rbdamas ir išė~jęs į pen~siją
 LIT/4451.wav|juoda`sis šokola~das ir valanda` stiprio~s Ma~x Co~
 LIT/4452.wav|to^kios ka^rvės nėra` labai~ produkty~vios
@@ -4204,7 +4204,7 @@ LIT/4453.wav|ir L Gačečila~dzės bei S Zurabišvi`li
 LIT/4454.wav|Būtina` daly~vių konso`rciumo sutarti`s
 LIT/4455.wav|o je^i asmuo~ yra` veiksnu`s
 LIT/4456.wav|todė~l urėdi`jos darbu^otojai sku`ba rin~kti
-LIT/4457.wav|ar dvarku`s a`š gą~sdinu na~ktį
+LIT/4457.wav|ar dvarku`s a`š gą~sdinu na~ktį?
 LIT/4458.wav|jog biudže`tas yra` defici`tinis
 LIT/4459.wav|artė^jantį my~lios per va~landą greičiu`
 LIT/4460.wav|kad didžiuliu`s namu`s jie~ sta~to ant že~mės
@@ -4219,7 +4219,7 @@ LIT/4468.wav|į^staigų ir į^monių vado~vais
 LIT/4469.wav|privačiai~ ar viešai~ ją~ išpaži`nti
 LIT/4470.wav|Tuo ta^rpu sudarky^tą ga~tvių asfa^ltbetonio dan~gą
 LIT/4471.wav|Ši`s kepiny~s gami`namas iš mieli`nės sluoksniu^otos tešlo~s
-LIT/4472.wav|kai~p yra` kitų~ mie~stų pirtyse`
+LIT/4472.wav|kai~p yra` kitų~ mie~stų pirtyse`?
 LIT/4473.wav|nes staiga` atsivė^rė tokie~ nejau~kūs jo~s artimų~jų si^elų u`žkaboriai
 LIT/4474.wav|sniaukro^jo lau~mė Justi`kė
 LIT/4475.wav|nuve~dęs mu`s iki Jo~no sva^inio
@@ -4239,7 +4239,7 @@ LIT/4488.wav|tėve~liai pa~tys mielai~ ski`ria du` pro`c pajamų~ mo^kesčio
 LIT/4489.wav|Iš drako`no gerklė~s plū^stelėjo skysto~s ugnie~s liežu`vis ir a`pglėbė No`tono ša^rvus
 LIT/4490.wav|Balan~džio keturio^liktą die~ną šešta~dienį
 LIT/4491.wav|Staiga` vi^enas tų~ aukštų~jų vy^rų susto^jo
-LIT/4492.wav|ko^kią na^udą įžvel~gia Lietuvo~s į^monės Į ES A~
+LIT/4492.wav|ko^kią na^udą įžvel~gia Lietuvo~s į^monės Į ES A~?
 LIT/4493.wav|bri`tų popro`ko gru`pės Spanda^u Balle`t ly^deriu Ga~ry Ke`mpu
 LIT/4494.wav|išdaužy^tais langai~s be lau~ko du`rų
 LIT/4495.wav|suvi`rintojas Broni`slavas Šči`tas
@@ -4292,7 +4292,7 @@ LIT/4541.wav|Du` šimtu` žmonių~ guli` it muse~lės nukei~pusios
 LIT/4542.wav|u`žkandžių bren~džio šampa~no
 LIT/4543.wav|Sura~šomi du` a~kto egzemplio~riai
 LIT/4544.wav|paprasta` žiauri` ir dosni`
-LIT/4545.wav|Ka`s to^kią baisy^bę pi`nigo mokė~s
+LIT/4545.wav|Ka`s to^kią baisy^bę pi`nigo mokė~s?
 LIT/4546.wav|slogo~s bei dau~gelio kitų~ ligų~
 LIT/4547.wav|savy^bes de~rančias su ra~šymu
 LIT/4548.wav|Sada~f išė~jo iš vonio~s ir atsi`gulė
@@ -4335,20 +4335,20 @@ LIT/4584.wav|didžių~jų bažny^tinių šven~čių pro^gomis
 LIT/4585.wav|Didžiai~ gerbiama` G Diga^itiene
 LIT/4586.wav|Stra^ipsnyje nagrinė^jami ta^nklaivių
 LIT/4587.wav|tuo~ laiku` pavadu^oja Sei~mo Pi`rmininkas
-LIT/4588.wav|Bet ga^l ju`ms ry^žto pridė~s šiek ti^ek spalvų~
+LIT/4588.wav|Bet ga^l ju`ms ry^žto pridė~s šiek ti^ek spalvų~?
 LIT/4589.wav|Dviejų~ žmonių~ draugy~stę Va^idotas vadi`no ri`mtu da^rbu
 LIT/4590.wav|Vienų~ vei~slių žiedi`niai kopū~stai tin~ka anksty^vajam der~liui
 LIT/4591.wav|Šiuo~ metu` galiu` pažiūrė^ti pro la^ngą ma^n iš dešinė~s matau~ spar~ną
 LIT/4592.wav|o brakonie~riams per u`žpakalį
 LIT/4593.wav|Tačiau~ Ukmergė~s KK koma^ndos sna^iperis Gau~dentas Puško~rius
-LIT/4594.wav|ar dainu^osiu kokioje` nors gru`pėje
-LIT/4595.wav|Ar ma~ža ju`ms vie~tos po sa^ule
+LIT/4594.wav|ar dainu^osiu kokioje` nors gru`pėje?
+LIT/4595.wav|Ar ma~ža ju`ms vie~tos po sa^ule?
 LIT/4596.wav|Po^vilas rau~do ba~lo meke~no
 LIT/4597.wav|kurio~ dieno~s metu` tiesio^g neišgirsti`
 LIT/4598.wav|tikiu` ir pasi`tikiu juo~ todė~l ma^n ramu`
-LIT/4599.wav|Ar jau užle^idžia tave` be eilė~s
+LIT/4599.wav|Ar jau užle^idžia tave` be eilė~s?
 LIT/4600.wav|Ga~lima išsinu^omoti name~lį ant jū^ros
-LIT/4601.wav|kaip sudū~žta su karu` susi`jusios iliu`zijos
+LIT/4601.wav|kaip sudū~žta su karu` susi`jusios iliu`zijos?
 LIT/4602.wav|išsa~mios u`žsienio pedago`ginių siste`mų stu`dijos
 LIT/4603.wav|Banglade`šas da^r tu`ri ga^uti oficia~lų JA^V pasiū^lymą
 LIT/4604.wav|papu`sryčiauju ir nuo devinto~s dvi^em valando^ms užsidarau~ spo`rto sa~lėje
@@ -4357,7 +4357,7 @@ LIT/4606.wav|jog A~ U`rbonas pi`rmą kar~tą į tarny^bą
 LIT/4607.wav|anksčiau~ yra` bu`vę apy^vartoje
 LIT/4608.wav|o šį~ proce`są stebė~s pati` vyriausy^bė
 LIT/4609.wav|o ma`no esmė~ galvo^ja visa^i ką kita`
-LIT/4610.wav|Ar no^ri ei~ti su manimi` drauge`
+LIT/4610.wav|Ar no^ri ei~ti su manimi` drauge`?
 LIT/4611.wav|apati`nio šilumingu`mo vidutine` verte`
 LIT/4612.wav|Ahmadineja~das sutin~ka su ja`
 LIT/4613.wav|kad tai~ trumpalai~kė programa`
@@ -4373,10 +4373,10 @@ LIT/4622.wav|laisvų~ kolekty~vinių dery^bų
 LIT/4623.wav|Ga~li prirei~kti žurna~lo dir~žo arba kakla~raiščio
 LIT/4624.wav|prieš neregė^tą pasyvu`mą kurį~ ro^do žmo^nės
 LIT/4625.wav|Tokie~ bū^site ir jū~s kai Dvasia` bu`s išlieta`
-LIT/4626.wav|ar priim~s šį~ konfliktu`s ke~liantį tur~tą
+LIT/4626.wav|ar priim~s šį~ konfliktu`s ke~liantį tur~tą?
 LIT/4627.wav|nors anksčiau~ grasi`no juo~s boikotu^oti
 LIT/4628.wav|R Ciba^usko žmona` die~nraščiui sa~kė
-LIT/4629.wav|Ar tai Jū~s važia~vote tuo~ automobiliu`
+LIT/4629.wav|Ar tai Jū~s važia~vote tuo~ automobiliu`?
 LIT/4630.wav|su kuriuo~ ji`s ga~li apie vi`ską kalbė^ti
 LIT/4631.wav|je^i vie~toje kruo~pų per~ka apelsinu`s
 LIT/4632.wav|Solidžiai~ įrė^minti kūriniai~
@@ -4393,7 +4393,7 @@ LIT/4642.wav|jau suė~jus gim~dymo ter~minui
 LIT/4643.wav|Pastaro^ji žen~gia laipteliu` žemiau~
 LIT/4644.wav|atsisė^dusi ant lo^vos kra~što
 LIT/4645.wav|bet ir jų~ atliekami` uždaviniai~
-LIT/4646.wav|kla^usdavau kodė~l jū~s nepri`imat Mandelšta~mo
+LIT/4646.wav|kla^usdavau kodė~l jū~s nepri`imat Mandelšta~mo?
 LIT/4647.wav|Penkta~dienį lai~vas i`šplaukė į sa`vo pi`rmąją
 LIT/4648.wav|Ja`s į dovano^tą lini`nį sū^rmaišį reikė^jo ber~ti
 LIT/4649.wav|Ke^ikias bjauria^usiais žo~džiais
@@ -4427,7 +4427,7 @@ LIT/4676.wav|Pasiskai~tę Da^n Bro^un Da Vin~čio ko`dą
 LIT/4677.wav|teisė^jas da~rė spaudi`mą ji`s atsa~kė
 LIT/4678.wav|Kuo~ atvire`snis me~nas ir jo~ fo`rmos
 LIT/4679.wav|kad tada` jį~ nu`siuntė pas gy^dytoją
-LIT/4680.wav|o iš kur~ jū~s ži`note apie tuo~s garsu`s
+LIT/4680.wav|o iš kur~ jū~s ži`note apie tuo~s garsu`s?
 LIT/4681.wav|kaip ir vi`sas San Franci`skas
 LIT/4682.wav|grublė^tus gumbu`s nulū^žusias
 LIT/4683.wav|smulkau~s ir viduti`nio ver~slo
@@ -4446,7 +4446,7 @@ LIT/4695.wav|apa~štalų Pe~tro ir Po^vilo bažny^čios klebo~nui Pe~trui Baniu`
 LIT/4696.wav|kaip jo~s mil~žiniškas kū^nas mau~džia
 LIT/4697.wav|Rei~kia važiu^oti į Kaišiado^ris ar Vi^evį
 LIT/4698.wav|Šilu`tėje jie~ apdovano^ti kamuoliai~s
-LIT/4699.wav|Ir kokia^m kenkė^jui tai šo^vė į ga^lvą
+LIT/4699.wav|Ir kokia^m kenkė^jui tai šo^vė į ga^lvą?
 LIT/4700.wav|Ambrazie~jus Jakavo^nis Bole`slovas Baze~vičius
 LIT/4701.wav|sė^sdavo į autobu`są ir išmaišy^davo vi`są mie~stą
 LIT/4702.wav|Už si^enų pane`lio su`cypė pelė~
@@ -4474,7 +4474,7 @@ LIT/4723.wav|paskyri`mą ga~vo į Varėno~s rajo`ną
 LIT/4724.wav|kad šių~ me~tų li^epos mė^nesį A~ Šne`ris
 LIT/4725.wav|kuprine`s kosme`tikos dėklu`s
 LIT/4726.wav|jo~ apy^linkės gretimi` ka^imai
-LIT/4727.wav|o kodė~l neaplanky^ti Bajo~rų lėlių~ muzie~jaus
+LIT/4727.wav|o kodė~l neaplanky^ti Bajo~rų lėlių~ muzie~jaus?
 LIT/4728.wav|Neįgali^ems vaika^ms vežio^ti nu`pirkta tri`sdešimt geltonų^jų autobusiu`kų
 LIT/4729.wav|o šuniu`kas ar kačiu`kas pa`ts nepasiim~s
 LIT/4730.wav|kad formu^ojasi savita` val~dymo schema`
@@ -4522,7 +4522,7 @@ LIT/4771.wav|Tai~gi A`š prisi^ekiau sa`vo rūsty^bėje
 LIT/4772.wav|radiškie~tis Mi`ndaugas Serža^ntas
 LIT/4773.wav|kalbė^jo ba~ro O`ld Lo`ndon ba^rmenas
 LIT/4774.wav|nega~lima va^lgyti razi`nų jogur~tų
-LIT/4775.wav|ko^kios bė~dos tave` pja^una
+LIT/4775.wav|ko^kios bė~dos tave` pja^una?
 LIT/4776.wav|Bikuva` tu`ri dvi` parduotuve`s
 LIT/4777.wav|pirmu^oju arba kuriuo~ nors kitu` eilė~s nu`meriu įrašy^ta jo~ mama`
 LIT/4778.wav|Per vi`są filma~vimąsi ji`s nė kar~to neužmy^nė ma^n ant ko^jos
@@ -4536,7 +4536,7 @@ LIT/4785.wav|ti^ek pat dienų~ rei~kia va^lgyti ža~lią mai~stą
 LIT/4786.wav|Ji`s sa~ko me~lą ger~bia len~kiasi
 LIT/4787.wav|geriau~ kai jie~ žai~džia o ne la^ngus dau~žo
 LIT/4788.wav|Pa^rko ir slė~nio simbio`zė galė^tų du^oti ištie~s geresnių~ rezulta~tų
-LIT/4789.wav|kada` jie~ nete~ko gyve~nimo drau~go
+LIT/4789.wav|kada` jie~ nete~ko gyve~nimo drau~go?
 LIT/4790.wav|lyg kokie~ kuolai~ prie ešafo`to
 LIT/4791.wav|pašalpų~ ir pen~sijų gavė^jams skirti`ngų spalvų~ segtu`vuose
 LIT/4792.wav|Galva` su i`šgaubta kakta` ir sna~po fo`rmos no^simi bu`vo graži`
@@ -4565,8 +4565,8 @@ LIT/4814.wav|kuri` nu`siaubė Nau~jąjį Orlea~ną
 LIT/4815.wav|kurio^ms ve^rgiškai pasidu^odame
 LIT/4816.wav|dvidešim~tą va^l Širvintų~ mieste`
 LIT/4817.wav|ką~ ir ro^do ši`tas a~tvejis
-LIT/4818.wav|Na` ga^l prieš dvi` sava^ites
-LIT/4819.wav|Va^lgyk vaike~li bulvy^čių
+LIT/4818.wav|Na` ga^l prieš dvi` sava^ites?
+LIT/4819.wav|Va^lgyk vaike~li bulvy^čių2
 LIT/4820.wav|Bru`cknerio Septinto^ji vaikų~ darže~lis
 LIT/4821.wav|Va~gneris ja^i suke^ldavo ti`krą eksta~zę
 LIT/4822.wav|kad aukštų~ ka^inų scena~rijaus a~tveju VĖ E~ ir AE~ ilgalai~kiai ka~štai bū^tų vieno^di
@@ -4687,32 +4687,32 @@ LIT/4936.wav|pra~šom pardu^oti tri`s bi`lietus
 LIT/4937.wav|prašy^čiau pardu^oti ke~turis bi`lietus
 LIT/4938.wav|norė^čiau išsikei~sti valiu`tos
 LIT/4939.wav|no^riu nusipir~kti eu~rų ir sva~rų
-LIT/4940.wav|ar tu`rite do^lerių ru`blių ir la~tų
+LIT/4940.wav|ar tu`rite do^lerių ru`blių ir la~tų?
 LIT/4941.wav|aš no^riu nusipir~kti kro`nų
 LIT/4942.wav|prašau~ man pasve^rti tri`s šimtu`s gra~mų
 LIT/4943.wav|miligra~mas ir gra~mas
 LIT/4944.wav|kilogra~mas ir keli šimtai~ gra~mų
 LIT/4945.wav|try~s šimtai~ dvi`dešimt to`nų
 LIT/4946.wav|norė^čiau pu`sės kilogra~mo
-LIT/4947.wav|ko^ks tavo var~das?
-LIT/4948.wav|ki^ek Jums me~tų?
-LIT/4949.wav|su kuo~ tu gyveni`?
-LIT/4950.wav|ką~ norė^site va^lgyti?
-LIT/4951.wav|ko~ pageida^utum?
-LIT/4952.wav|kuo~ sku`ndžiatės?
-LIT/4953.wav|ka`s nuti`ko?
-LIT/4954.wav|kada` bū^tų ga~lima?
-LIT/4955.wav|ki^ek tai kainu^oja?
+LIT/4947.wav|ko^ks tavo var~das??
+LIT/4948.wav|ki^ek Jums me~tų??
+LIT/4949.wav|su kuo~ tu gyveni`??
+LIT/4950.wav|ką~ norė^site va^lgyti??
+LIT/4951.wav|ko~ pageida^utum??
+LIT/4952.wav|kuo~ sku`ndžiatės??
+LIT/4953.wav|ka`s nuti`ko??
+LIT/4954.wav|kada` bū^tų ga~lima??
+LIT/4955.wav|ki^ek tai kainu^oja??
 LIT/4956.wav|penkio^lika indė^nų šeimų~
 LIT/4957.wav|tą pirma~dienio pri^ešpietį
 LIT/4958.wav|atgimi`mo apy^aušris
-LIT/4959.wav|ki^ek dabar~ valandų~?
+LIT/4959.wav|ki^ek dabar~ valandų~??
 LIT/4960.wav|še~šios va~landos va~karo
 LIT/4961.wav|pu`sė septynių~ ry^to
 LIT/4962.wav|dabar~ ly~giai pusia^udienis
 LIT/4963.wav|ketvir~tą va^lgysime pa~vakarius
-LIT/4964.wav|ko^ks yra valiu`tos ku`rsas?
-LIT/4965.wav|ar galė^tumėte pasaky^ti?
+LIT/4964.wav|ko^ks yra valiu`tos ku`rsas??
+LIT/4965.wav|ar galė^tumėte pasaky^ti??
 LIT/4966.wav|devynių~ vienu^olikos me~tų a^mžiaus
 LIT/4967.wav|devintame` dešimtame` a^mžiuje
 LIT/4968.wav|tū^kstantmečio i`švakarėse
