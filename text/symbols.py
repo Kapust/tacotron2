@@ -1,20 +1,26 @@
-""" from https://github.com/keithito/tacotron """
+def get_valid_symbol_ids(valid_symbol_cases):
+	#defaults
+	pho = [
+	'Į', # y
+	'Ų', # ū
+	'C', # ts
+	'Č' # tš
+	]
+	_pad = '_'
+	_special = '-'
+	_punctuation = '!\'(),-.:;? '
+	_accent = ''
+	_letters = 'AĄBCČDEĘĖFGHIĮYJKLMNOPQRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnoprsštuųūvzž'
+	
+	if "lowercase_only" in valid_symbol_cases:
+		_letters = ''.join([x[0] for x in zip(_letters, _letters.upper()) if x[0] != x[1]])
+	if "accent_chars" in valid_symbol_cases:
+		_accent += '~^`'
+	if "otimized_phonemes" in valid_symbol_cases:
+		for ph in pho:
+			_letters = _letters.replace(ph,"").replace(ph.lower(),"")
 
-'''
-Defines the set of symbols used in text input to the model.
+	return [_pad] + list(_special) + list(_punctuation) + list(_letters) + list(_accent)
 
-The default is a set of ASCII characters that works well for English or text that has been run through Unidecode. For other data, you can modify _characters. See TRAINING_DATA.md for details. '''
-from text import cmudict
-
-_pad        = '_'
-_punctuation = '!\'(),-.:;? '
-_special = '-'
-#_letters = 'AĄBCČDEĘĖFGHIĮYJKLMNOPQRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnopqrsštuųūvwxzž' #full
-_letters = 'aąbcčdeęėfghiįyjklmnopqrsštuųūvwxzž' #full
-#_kirciuotos = ['a~','a`','a^','e~','e`','e^']
-
-# Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
-#_arpabet = ['@' + s for s in cmudict.valid_symbols]
-
-# Export all symbols:
-symbols = [_pad] + list(_special) + list(_punctuation) + list(_letters) #+ _arpabet
+def get_symbol_len(valid_symbol_cases):
+	return len(get_valid_symbol_ids(valid_symbol_cases))
