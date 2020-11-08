@@ -28,7 +28,7 @@ def create_hparams(hparams_string=None, verbose=False):
         training_files='filelists/lit_audio_text_train_filelist.txt',
         validation_files='filelists/lit_audio_text_val_filelist.txt',
         text_cleaners=['basic_cleaners'],
-        valid_symbols_cases = ['']
+        valid_symbols_cases = [''],
 
         ################################
         # Audio Parameters             #
