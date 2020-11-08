@@ -42,6 +42,7 @@ _abbreviations = [(re.compile('\\b%s\\.' % x[0], re.IGNORECASE), x[1]) for x in 
   ('ft', 'fort'),
 ]]
 
+pho_dict = {'Į' : 'Y', 'Ų' : 'Ū','C' : 'Ts','Č' : 'Tš'}
 
 def expand_abbreviations(text):
   for regex, replacement in _abbreviations:
@@ -56,6 +57,10 @@ def expand_numbers(text):
 def lowercase(text):
   return text.lower()
 
+def phonemes(text):
+  for pho in pho_dict:
+    text = text.replace(pho,pho_dict[pho]).replace(lowercase(pho),lowercase(pho_dict[pho]))
+  return text
 
 def collapse_whitespace(text):
   return re.sub(_whitespace_re, ' ', text)
@@ -67,7 +72,7 @@ def convert_to_ascii(text):
 
 def basic_cleaners(text):
   '''Basic pipeline that lowercases and collapses whitespace without transliteration.'''
-  text = lowercase(text)
+  #text = lowercase(text)
   text = collapse_whitespace(text)
   return text
 
