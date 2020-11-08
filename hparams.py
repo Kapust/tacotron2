@@ -28,7 +28,7 @@ def create_hparams(hparams_string=None, verbose=False):
         training_files='filelists/lit_audio_text_train_filelist.txt',
         validation_files='filelists/lit_audio_text_val_filelist.txt',
         text_cleaners=['basic_cleaners'],
-        valid_symbols_cases = [''],
+        valid_symbols_cases = ['']
 
         ################################
         # Audio Parameters             #
@@ -45,7 +45,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################
-        n_symbols=get_symbol_len(valid_symbols_cases),
+        n_symbols=0,
         symbols_embedding_dim=512,
 
         # Encoder parameters
@@ -89,9 +89,8 @@ def create_hparams(hparams_string=None, verbose=False):
     if hparams_string:
         tf.logging.info('Parsing command line hparams: %s', hparams_string)
         hparams.parse(hparams_string)
-        print(hparams_string)
 
     if verbose:
         tf.logging.info('Final parsed hparams: %s', hparams.values())
-
+    hparams.n_symbols = get_symbol_len(hparams.valid_symbols_cases)
     return hparams
