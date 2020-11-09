@@ -1,16 +1,11 @@
 def get_valid_symbol_ids(valid_symbol_cases):
 	#defaults
-	pho = [
-	'Į', # y
-	'Ų', # ū
-	'C', # ts
-	'Č' # tš
-	]
+	pho = ['Į', 'Ų', 'C', 'Č']
 	_pad = '_'
 	_special = '-'
 	_punctuation = '!\'(),-.:;? '
 	_accent = ''
-	_letters = 'AĄBCČDEĘĖFGHIĮYJKLMNOPQRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnoprsštuųūvzž'
+	_letters = 'AaĄąBbCcČčDdEeĘęĖėFfGgHhIiĮįYyJjKkLlMmNnOoPpQqRrSsŠšTtUuŲųŪūVvZzŽž'
 	
 	if "lowercase_only" in valid_symbol_cases:
 		_letters = ''.join([x[0] for x in zip(_letters, _letters.upper()) if x[0] != x[1]])
