@@ -51,6 +51,6 @@ def _symbols_to_sequence(symbols,vs,vsc):
         s = symbols[i]
       if s in vs:
         arr.append(vs[s])
-  return arr
+    return arr
   else:
     return [vs[s] for s in symbols if s in vs]
