@@ -47,10 +47,10 @@ def _symbols_to_sequence(symbols,vs,vsc):
       if i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
         s = symbols[i] + symbols[i+1]
         i+=2
-  else:
-    s = symbols[i]
-    if s in vs:
-      arr.append(vs[s])
+      else:
+        s = symbols[i]
+      if s in vs:
+        arr.append(vs[s])
   return arr
   else:
     return [vs[s] for s in symbols if s in vs]
