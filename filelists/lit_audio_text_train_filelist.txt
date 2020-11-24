@@ -439,7 +439,7 @@ LIT/0688.wav|o premje`ro Jaro`slavo Kačy^nskio ir jo~ iden~tiško dvy~nio
 LIT/0689.wav|Savi` ir svetimi` rū^pinasi
 LIT/0690.wav|Ši`tokie pas mu`s va^ikšto su žaliu` tri`kampiu
 LIT/0691.wav|neišve^ngiamai atsispindė~s mo^terų kūry^boje
-LIT/0692.wav|Ža~slių para~pijoje Kaišiadorių~ raj~
+LIT/0692.wav|Ža~slių para~pijoje Kaišiadorių~ raj
 LIT/0693.wav|atnau~jinti inžine`rinius tinklu`s
 LIT/0694.wav|Šauktinų~ asmenų~ sąraše` nuro^doma liu`dytojų
 LIT/0695.wav|juose` ir vė~l tai~ ga~lime atra`sti
@@ -3805,7 +3805,7 @@ LIT/4054.wav|kurio~s lė^šomis bu`vo apmokė^ta U A BĖ~ Revista` ir U A BĖ~ P
 LIT/4055.wav|kai ma^n rei~kia vi`siškos ramy^bės
 LIT/4056.wav|laukuose` doro^ja sa`vo gro~bį
 LIT/4057.wav|Jį~ nuša~linus nuo šių~ pareigų~
-LIT/4058.wav|penkis` pro`c suda~ro biudže`to lė^šos
+LIT/4058.wav|penki`s pro`c suda~ro biudže`to lė^šos
 LIT/4059.wav|me~džio drožiniai~ bumera^ngai
 LIT/4060.wav|Jie~ toliau~ dir~bs sa`vo biu`ruose
 LIT/4061.wav|ši`s kla^usimas bu`s apsvarsty^tas da^r ruden~s se`sijoje
