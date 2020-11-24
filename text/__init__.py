@@ -16,7 +16,7 @@ def text_to_sequence(text, cleaner_names,valid_symbol_cases):
 
   _symbol_to_id = ({s: i for i, s in enumerate(valid_symbols)})
   
-  sequence = _symbols_to_sequence(_clean_text(text, cleaner_names),_symbol_to_id)
+  sequence = _symbols_to_sequence(_clean_text(text, cleaner_names),_symbol_to_id,valid_symbol_cases)
 
   return sequence
 
@@ -40,5 +40,17 @@ def _clean_text(text, cleaner_names):
   return text
 
 
-def _symbols_to_sequence(symbols,vs):
-  return [vs[s] for s in symbols if s in vs]
+def _symbols_to_sequence(symbols,vs,vsc):
+  if "accent_letters" in vsc:
+    arr = []
+    for i in range(len(symbols)):
+      if i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
+        s = symbols[i] + symbols[i+1]
+        i+=2
+  else:
+    s = symbols[i]
+    if s in vs:
+      arr.append(vs[s])
+  return arr
+  else:
+    return [vs[s] for s in symbols if s in vs]
