@@ -11,6 +11,9 @@ def text_to_sequence(text, cleaner_names,valid_symbol_cases):
     cleaner_names.append('lowercase')
   if "otimized_phonemes" in valid_symbol_cases and 'phonemes' not in cleaner_names:
     cleaner_names.append('phonemes')
+  if "accent_letters" in valid_symbol_cases and 'accent_chars' in cleaner_names:
+    cleaner_names.remove('accent_chars')
+
   _symbol_to_id = ({s: i for i, s in enumerate(valid_symbols)})
   
   sequence = _symbols_to_sequence(_clean_text(text, cleaner_names),_symbol_to_id)
@@ -20,6 +23,7 @@ def text_to_sequence(text, cleaner_names,valid_symbol_cases):
 def sequence_to_text(sequence,valid_symbol_cases):
   valid_symbols = get_valid_symbol_ids(valid_symbol_cases)
   _id_to_symbol = {i: s for i, s in enumerate(valid_symbols)}
+
   result = ''
   for symbol_id in sequence:
     if symbol_id in _id_to_symbol:
