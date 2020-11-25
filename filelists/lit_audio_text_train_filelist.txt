@@ -1587,7 +1587,7 @@ LIT/1836.wav|kai Liu`tkė gir~di ir Ke`nigas ant kalinių~ rė~kia
 LIT/1837.wav|apie kuria`s pra`neša litu`rginis Adven~to lai~kas
 LIT/1838.wav|ruo~šti iš jo~s įvairiu`s ga~minius
 LIT/1839.wav|absu`rdas ir no^ras J Augusti`ną išstu`mti iš da^rbo
-LIT/1840.wav|Tiesio^g priva~lome bū^ti džiaugsmi`ngi2
+LIT/1840.wav|Tiesio^g priva~lome bū^ti džiaugsmi`ngi
 LIT/1841.wav|Juo~s te~ko ve`žti į Liepo^jos ir Rygo~s o^ro u^ostus
 LIT/1842.wav|go~džiai glo^stė atgi`mstančią gam~tą
 LIT/1843.wav|ir pakri`kštyti kū~dikiai netru`kus nu`mirė
@@ -4776,9 +4776,9 @@ LIT/5025.wav|ū~
 LIT/5026.wav|vė~
 LIT/5027.wav|zė~
 LIT/5028.wav|žė~
-LIT/5029.wav|a~ no^sinė 
-LIT/5030.wav|e~ no^sinė
-LIT/5031.wav|i~ no^sinė
+LIT/5029.wav|ą~ no^sinė 
+LIT/5030.wav|ę~ no^sinė
+LIT/5031.wav|į~ no^sinė
 LIT/5032.wav|y~ ilgo^ji
-LIT/5033.wav|u~ no^sinė 
-LIT/5034.wav|u~ ilgo^ji
+LIT/5033.wav|ų~ no^sinė 
+LIT/5034.wav|ū~ ilgo^ji

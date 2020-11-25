@@ -44,9 +44,7 @@ def _symbols_to_sequence(symbols,vs,vsc):
   if "accent_letters" in vsc:
     arr = []
     for i in range(len(symbols)):
-      if symbols(i) in ['`','~','^']:
-        continue
-      elif i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
+      if i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
         s = symbols[i] + symbols[i+1]
       else:
         s = symbols[i]
