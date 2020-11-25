@@ -11,8 +11,8 @@ def text_to_sequence(text, cleaner_names,valid_symbol_cases):
     cleaner_names.append('lowercase')
   if "otimized_phonemes" in valid_symbol_cases and 'phonemes' not in cleaner_names:
     cleaner_names.append('phonemes')
-  if "accent_letters" in valid_symbol_cases and 'accent_chars' in cleaner_names:
-    cleaner_names.remove('accent_chars')
+  if "accent_letters" in valid_symbol_cases and 'accent_chars' in valid_symbol_cases:
+    valid_symbol_cases.remove('accent_chars')
 
   _symbol_to_id = ({s: i for i, s in enumerate(valid_symbols)})
   
@@ -44,9 +44,10 @@ def _symbols_to_sequence(symbols,vs,vsc):
   if "accent_letters" in vsc:
     arr = []
     for i in range(len(symbols)):
-      if i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
+      if symbols(i) in ['`','~','^']:
+        continue
+      elif i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
         s = symbols[i] + symbols[i+1]
-        i+=2
       else:
         s = symbols[i]
       if s in vs:
