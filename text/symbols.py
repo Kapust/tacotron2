@@ -47,7 +47,7 @@ def get_valid_symbol_ids(cleaners):
 				insert_index = _raidynas.index(raide) + 1
 				_raidynas[insert_index:insert_index] = _kirciuotos_raides[raide]
 
-	if "optimized_phonemes" in cleaners:
+	if "phonemes" in cleaners:
 		if "accent_letters" in cleaners:
 			_raidynas = [x for x in _raidynas if x.lower() not in _fonemos['accent']]
 		else:

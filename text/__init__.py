@@ -46,7 +46,7 @@ def _symbols_to_sequence(symbols,vs,cleaner_names):
     if "accent_letters" in cleaner_names and i+1 < len(symbols) and symbols[i+1] in ['`','~','^']:
       s = symbols[i] + symbols[i+1]
       skip_next = True
-    if "optimized_phonemes" in cleaner_names and i+1 < len(symbols) and symbols[i] == "c" and symbols[i+1] =="h":
+    if "phonemes" in cleaner_names and i+1 < len(symbols) and symbols[i] == "c" and symbols[i+1] =="h":
       s = symbols[i] + symbols[i+1]
       skip_next = True
     if s in vs:
