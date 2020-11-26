@@ -38,8 +38,9 @@ def get_valid_symbol_ids(valid_symbol_cases):
 	if "accent_letters" in valid_symbol_cases:
 		for letter in _letters:
 			if letter in _accent_letters:
-				insert_index = _letters.index(letter) +1
-				_letters[insert_index:insert_index] = _accent_letters[letter]
+				if not ("otimized_phonemes" in valid_symbol_cases and letter in pho):
+					insert_index = _letters.index(letter) +1
+					_letters[insert_index:insert_index] = _accent_letters[letter]
 
 	return [_pad] + list(_special) + list(_punctuation) + list(_accent) + _letters
 
