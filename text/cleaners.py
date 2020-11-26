@@ -32,3 +32,9 @@ def collapse_whitespace(text):
 def basic_cleaners(text):
   text = collapse_whitespace(text)
   return text
+
+def accent_letters(text):
+  return text
+
+def accent_chars(text):
+  return text
