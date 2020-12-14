@@ -45,7 +45,14 @@ def get_valid_symbol_ids(cleaners):
 		for raide in _raidynas:
 			if raide in _kirciuotos_raides:
 				insert_index = _raidynas.index(raide) + 1
-				_raidynas[insert_index:insert_index] = _kirciuotos_raides[raide]
+				if "lowercase" not in cleaners:
+					kirciuotos_su_didz = []
+					for kirciuota_raide in _kirciuotos_raides[raide]:
+						kirciuotos_su_didz.append(kirciuota_raide.upper())
+						kirciuotos_su_didz.append(kirciuota_raide)
+					_raidynas[insert_index:insert_index] = kirciuotos_su_didz
+				else:
+					_raidynas[insert_index:insert_index] = _kirciuotos_raides[raide]
 
 	if "phonemes" in cleaners:
 		if "accent_letters" in cleaners:
