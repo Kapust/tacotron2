@@ -51,4 +51,6 @@ def _symbols_to_sequence(symbols,vs,cleaner_names):
       skip_next = True
     if s in vs:
       arr.append(vs[s])
+    elif s[0] in vs:
+      arr.append(vs[s[0]])
   return arr
