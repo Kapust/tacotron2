@@ -1,4 +1,4 @@
-_accent_letters = {
+_kirciuotos_raides = {
 "a" :  ["a`","a~","a^"],
 "ą" : ["ą~","ą^"],
 "e" : ["e`","e~","e^"],
@@ -17,31 +17,52 @@ _accent_letters = {
 "r" : ["r~"]
 }
 
-def get_valid_symbol_ids(valid_symbol_cases):
-	#defaults
-	pho = ['Į', 'Ų', 'C', 'Č']
-	_pad = '_'
-	_special = '-'
-	_punctuation = '!\'(),-.:;? '
-	_accent = ''
-	_letters = 'AaĄąBbCcČčDdEeĘęĖėFfGgHhIiĮįYyJjKkLlMmNnOoPpQqRrSsŠšTtUuŲųŪūVvZzŽž'
+_fonemos = {
+'regular' :['į', 'ų', 'c', 'č'],
+'accent' : ['ą~','ą^','ę~','ę^','i^','į','į~','į^','u^','ų','ų~','ų^','c','č'],
+'add' : ['ch']
+}
+
+def get_valid_symbol_ids(cleaners):
+	_simboliai = ' ?!.'
+	_balsiai = 'AaĄąEeĘęĖėIiĮįYyOoUuŲųŪū'
+	_priebalsiai_sprogstamieji = 'BbDdGgPpTtKk'
+	_priebalsiai_snypsciantieji = 'CcČčSsŠšZzŽžFfHh'
+	_priebalsiai_kiti = 'JjLlMmNnRrVv'
+	_kirciai = '~^`'
 	
-	if "lowercase_only" in valid_symbol_cases:
-		_letters = ''.join([x[0] for x in zip(_letters, _letters.upper()) if x[0] != x[1]])
-	if "accent_chars" in valid_symbol_cases:
-		_accent += '~^`'
-	if "otimized_phonemes" in valid_symbol_cases:
-		for ph in pho:
-			_letters = _letters.replace(ph,"").replace(ph.lower(),"")
+	_raidynas = _balsiai + _priebalsiai_sprogstamieji + _priebalsiai_snypsciantieji + _priebalsiai_kiti
 
-	_letters = list(_letters)
-	if "accent_letters" in valid_symbol_cases:
-		for letter in _letters:
-			if letter in _accent_letters:
-				insert_index = _letters.index(letter) +1
-				_letters[insert_index:insert_index] = _accent_letters[letter]
+	if "lowercase" in cleaners:
+		_raidynas = ''.join([x[0] for x in zip(_raidynas, _raidynas.upper()) if x[0] != x[1]])
 
-	return [_pad] + list(_special) + list(_punctuation) + list(_accent) + _letters
+	if "accent_chars" in cleaners:
+		_raidynas += _kirciai
 
-def get_symbol_len(valid_symbol_cases):
-	return len(get_valid_symbol_ids(valid_symbol_cases))
+	_raidynas = list(_raidynas) + list(_simboliai)
+
+	if "accent_letters" in cleaners:
+		for raide in _raidynas:
+			if raide in _kirciuotos_raides:
+				insert_index = _raidynas.index(raide) + 1
+				if "lowercase" not in cleaners:
+					kirciuotos_su_didz = []
+					for kirciuota_raide in _kirciuotos_raides[raide]:
+						kirciuotos_su_didz.append(kirciuota_raide.upper())
+						kirciuotos_su_didz.append(kirciuota_raide)
+					_raidynas[insert_index:insert_index] = kirciuotos_su_didz
+				else:
+					_raidynas[insert_index:insert_index] = _kirciuotos_raides[raide]
+
+	if "phonemes" in cleaners:
+		if "accent_letters" in cleaners:
+			_raidynas = [x for x in _raidynas if x.lower() not in _fonemos['accent']]
+		else:
+			_raidynas = [x for x in _raidynas if x.lower() not in _fonemos['regular']]
+		insert_index = _raidynas.index('h') + 1
+		_raidynas[insert_index:insert_index] = _fonemos['add']
+
+	return _raidynas 
+
+def get_symbol_len(cleaners):
+	return len(get_valid_symbol_ids(cleaners))
