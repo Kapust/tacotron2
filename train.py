@@ -188,7 +188,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
     # Load checkpoint if one exists
     iteration = 0
     epoch_offset = 0
-    if checkpoint_path:
+    if checkpoint_path is not None:
         if warm_start:
             model = warm_start_model(
                 checkpoint_path, model, hparams.ignore_layers)
